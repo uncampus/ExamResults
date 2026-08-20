@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#071a4d">
+  <meta name="description" content="UN Campus student results portal">
+  <title>UN Campus | Results Portal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="preloader" class="preloader">
+    <div class="loader-orbit">
+      <div class="loader-ring"></div>
+      <img src="assets/logo.png" alt="UN Campus">
+    </div>
+    <div class="loader-brand">UN CAMPUS</div>
+    <div class="loader-text">Preparing your results portal...</div>
+  </div>
+
+  <div id="app" class="app-shell is-hidden">
+    <header class="topbar">
+      <a class="brand" href="#" data-action="home" aria-label="UN Campus home">
+        <img src="assets/logo.png" alt="UN Campus logo">
+        <div>
+          <strong>UN CAMPUS</strong>
+          <span>RESULTS PORTAL</span>
+        </div>
+      </a>
+      <div class="top-actions">
+        <button id="themeToggle" class="icon-btn" type="button" aria-label="Toggle theme">☾</button>
+        <button id="logoutBtn" class="btn btn-ghost hidden" type="button">Staff Logout</button>
+      </div>
+    </header>
+
+    <main>
+      <section id="homeView" class="view active">
+        <div class="hero-grid">
+          <div class="hero-copy reveal">
+            <span class="eyebrow"><span class="pulse-dot"></span> Secure Academic Results</span>
+            <h1>Welcome to the <span>UN Campus</span> Results Portal</h1>
+            <p>Access student results quickly, view batch-wise performance, and check academic progress.</p>
+            <div class="hero-actions">
+              <button class="btn btn-primary btn-lg" data-action="studentPortal">Student Result Search <span>→</span></button>
+              <button class="btn btn-secondary btn-lg" data-action="staffLogin">Staff Login</button>
+            </div>
+            <div class="mini-trust">
+              <div><b>100%</b><span>Responsive</span></div>
+              <div><b>12+</b><span>Modules</span></div>
+              <div><b>24/7</b><span>Access</span></div>
+            </div>
+          </div>
+          <div class="hero-logo-panel reveal delay-1">
+            <div class="logo-orbit"></div>
+            <img src="assets/logo.png" alt="UN Campus emblem">
+            <div class="hero-logo-caption">
+              <span>UN CAMPUS</span>
+              <strong>Academic Results Portal</strong>
+              <p>Students • Staff • Batch Management</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="staffLoginView" class="view">
+        <div class="center-wrap">
+          <div class="auth-card reveal">
+            <button class="back-link" data-action="home">← Back to home</button>
+            <div class="auth-icon">🔐</div>
+            <span class="eyebrow">Authorized Access</span>
+            <h2>Staff Login</h2>
+            <p>Sign in to view batch-wise student results and academic statistics.</p>
+            <form id="staffLoginForm" novalidate>
+              <label>Username
+                <div class="input-wrap"><span>👤</span><input id="staffUsername" type="text" autocomplete="username" required placeholder="Enter username"></div>
+              </label>
+              <label>Password
+                <div class="input-wrap"><span>🔒</span><input id="staffPassword" type="password" autocomplete="current-password" required placeholder="Enter password"></div>
+              </label>
+              <button class="btn btn-primary btn-full" type="submit">Sign In <span>→</span></button>
+              <div id="staffLoginMessage" class="form-message"></div>
+            </form>
+            <div class="auth-note">Staff access is intended for authorized academic personnel.</div>
+          </div>
+        </div>
+      </section>
+
+      <section id="batchView" class="view">
+        <div class="page-heading reveal">
+          <div>
+            <span class="eyebrow">Student Portal</span>
+            <h2>Select Your Batch</h2>
+            <p>Choose your course and batch to continue to the NIC result search.</p>
+          </div>
+          <button class="btn btn-ghost" data-action="home">← Home</button>
+        </div>
+        <div id="batchGrid" class="batch-grid"></div>
+      </section>
+
+      <section id="studentSearchView" class="view">
+        <div class="page-heading">
+          <div>
+            <span class="eyebrow">Student Result Search</span>
+            <h2 id="studentBatchTitle">Batch Results</h2>
+            <p>Enter your NIC exactly as registered with the institute.</p>
+          </div>
+          <button class="btn btn-ghost" data-action="studentPortal">← Change Batch</button>
+        </div>
+        <div class="search-card reveal">
+          <div class="search-art"><img src="assets/logo.png" alt="UN Campus"></div>
+          <form id="studentSearchForm" class="search-form" novalidate>
+            <label>National Identity Card (NIC)
+              <div class="input-wrap large"><span>🪪</span><input id="studentNic" type="text" inputmode="numeric" autocomplete="off" placeholder="Enter your NIC number" required></div>
+            </label>
+            <button class="btn btn-primary btn-lg" type="submit">Search Result <span>⌕</span></button>
+            <div id="studentSearchMessage" class="form-message"></div>
+          </form>
+        </div>
+        <div id="resultContainer"></div>
+      </section>
+
+      <section id="staffDashboardView" class="view">
+        <div class="page-heading">
+          <div>
+            <span class="eyebrow">Staff Dashboard</span>
+            <h2>Batch-wise Results</h2>
+            <p>Review student performance, attendance and module marks.</p>
+          </div>
+          <div class="staff-toolbar">
+            <select id="staffBatchSelect" class="select-control"></select>
+            <button id="printBatchBtn" class="btn btn-secondary" type="button">🖨 Print / Preview</button>
+          </div>
+        </div>
+        <div class="print-header">
+          <div class="print-brand-row">
+            <img src="assets/logo.png" alt="UN Campus Logo">
+            <div>
+              <h1>UN CAMPUS</h1>
+              <div>No: 102, Post Office Road, Trincomalee</div>
+              <div>No: 231, Dockyard Road, Trincomalee</div>
+              <div>Email: info@uncampusacademy.com &nbsp; | &nbsp; uncampusacademy.com &nbsp; | &nbsp; +94 11 3640 634</div>
+            </div>
+          </div>
+          <div class="print-title">
+            <h2>STUDENT RESULTS</h2>
+            <strong id="printBatchName"></strong>
+            <span id="printCourseName"></span>
+          </div>
+        </div>
+        <div id="staffStats" class="stats-grid"></div>
+        <div class="dashboard-card">
+          <div class="table-head">
+            <div><strong id="staffTableTitle">Students</strong><span id="staffTableMeta"></span></div>
+            <input id="staffTableSearch" class="table-search" placeholder="Search name or NIC...">
+          </div>
+          <div class="table-scroll">
+            <table class="results-table" id="staffResultsTable">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </div>
+        <div class="print-certification">
+          <p>I certify that the above results have been checked and are an accurate record of the students' academic performance.</p>
+          <div class="signature-grid">
+            <div><div class="signature-line"></div><strong id="printLecturerPrint">Lecturer</strong><span>Lecturer Signature / Name</span></div>
+            <div><div class="signature-line"></div><strong id="printDatePrint"></strong><span>Date</span></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer-brand"><img src="assets/logo.png" alt=""><div><strong>UN CAMPUS</strong><span>Results Portal</span></div></div>
+      <div>Need help? <a href="mailto:siyathmsm2000@gmail.com">siyathmsm2000@gmail.com</a></div>
+      <div>© <span id="year"></span> UN Campus</div>
+    </footer>
+  </div>
+
+  <div id="printModal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="printModalTitle">
+    <div class="print-modal">
+      <button id="cancelPrintBtn" class="modal-close" type="button" aria-label="Close">×</button>
+      <span class="eyebrow">Print / Preview</span>
+      <h2 id="printModalTitle">Print Results</h2>
+      <p>Enter the lecturer details that should appear in the certification area of the printed results.</p>
+      <label>Lecturer Name
+        <div class="input-wrap"><span>👨‍🏫</span><input id="printLecturerName" type="text" placeholder="Enter lecturer name" autocomplete="name"></div>
+      </label>
+      <label>Date
+        <div class="input-wrap"><span>📅</span><input id="printDate" type="date"></div>
+      </label>
+      <div class="modal-actions">
+        <button id="cancelPrintBtnAlt" class="btn btn-ghost" type="button">Cancel</button>
+        <button id="confirmPrintBtn" class="btn btn-primary" type="button">Continue to Print Preview →</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/config.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
