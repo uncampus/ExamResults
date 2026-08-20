@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>UN Campus | Excel to data.js</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f4f7fc;color:#10203f;margin:0;padding:30px}.card{max-width:900px;margin:auto;background:#fff;padding:30px;border-radius:20px;box-shadow:0 15px 50px #102d6d18}h1{margin-top:0}p{color:#5d6980;line-height:1.6}.btn{background:#145cf5;color:#fff;border:0;border-radius:10px;padding:12px 18px;font-weight:bold;cursor:pointer}.note{padding:14px;background:#eef4ff;border-radius:12px;margin:18px 0;font-size:14px}.out{white-space:pre-wrap;background:#081a45;color:#dce9ff;padding:18px;border-radius:14px;max-height:500px;overflow:auto;font-size:12px}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Excel → Results Data Converter</h1>
+<p>Use this helper whenever you update the Excel results sheet. It reads the first worksheet in the browser and generates a <code>data.js</code> file for the portal.</p>
+<div class="note"><b>Expected columns:</b> No., Name, Full Name, NIC, <b>Registration Number</b>, M01 ... M12, Final, Average, Attendance. Registration Number is copied from Excel; if it is blank, the converter generates one automatically.</div>
+<label>Batch ID <input id="batch" value="DIIT-B09"></label><br><br>
+<label>Batch Display Name <input id="batchName" value="DIIT - B09"></label><br><br>
+<label>Course <input id="course" value="Diploma in IT"></label><br><br>
+<input id="file" type="file" accept=".xlsx,.xls,.csv">
+<button class="btn" id="convert">Convert & Download data.js</button>
+<pre class="out" id="output">Select an Excel file to begin.</pre>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+<script>
+const $=s=>document.querySelector(s);
+$("#convert").onclick=async()=>{
+ const f=$("#file").files[0]; if(!f){alert("Select an Excel file first.");return;}
+ const buf=await f.arrayBuffer(); const wb=XLSX.read(buf,{type:"array"}); const ws=wb.Sheets[wb.SheetNames[0]];
+ const rows=XLSX.utils.sheet_to_json(ws,{header:1,defval:""});
+ const header=rows[0].map(x=>String(x).trim()); const idx=n=>header.findIndex(h=>h.toLowerCase()===n.toLowerCase());
+ const moduleCols=Array.from({length:12},(_,i)=>idx("M"+String(i+1).padStart(2,"0")));
+ const regIdx=["Registration Number","Registration No","Reg No","Registration"].map(idx).find(i=>i>=0);
+ const to2=v=>{const n=Number(String(v??"").trim());return Number.isFinite(n)?Number(n.toFixed(2)):(v??"");};
+ const records=rows.slice(1).filter(r=>String(r[idx("Name")]||"").trim()).map((r,rowIndex)=>{
+   const autoReg=`UNC-${$("#batch").value.trim().replace(/[^A-Za-z0-9]+/g,"").toUpperCase()}-${String(rowIndex+1).padStart(3,"0")}`;
+   return {
+     name:r[idx("Name")]||"",fullName:r[idx("Full Name")]||"",nic:String(r[idx("NIC")]||"").trim(),
+     registrationNumber:String(regIdx>=0?(r[regIdx]||""):"").trim()||autoReg,
+     marks:moduleCols.map(i=>i>=0?r[i]:""),final:idx("Final")>=0?r[idx("Final")]:"",
+     average:idx("Average")>=0?to2(r[idx("Average")]):"",attendance:idx("Attendance")>=0?to2(r[idx("Attendance")]):""
+   };
+ });
+ const modules=moduleCols.map((_,i)=>({code:"M"+String(i+1).padStart(2,"0"),name:"Module "+String(i+1)}));
+ const id=$("#batch").value.trim(), obj={}; obj[id]={course:$("#course").value.trim(),batch:$("#batchName").value.trim(),resultDate:String(new Date().getFullYear()),modules,students:records};
+ const text="/* Generated from Excel by UN Campus converter */\\nwindow.RESULTS_DATA = "+JSON.stringify(obj,null,2)+";\\n";
+ $("#output").textContent=text;
+ const blob=new Blob([text],{type:"application/javascript"}); const a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download="data.js";a.click();URL.revokeObjectURL(a.href);
+};
+</script>
+</body>
+</html>
