@@ -1325,8 +1325,8 @@ window.RESULTS_DATA = {
       },
       {
         "name": "R Kopishanthini",
-        "fullName": "",
-        "nic": "",
+        "fullName": "𝗥𝗮𝘀𝗲𝗻𝘁𝗵𝗶𝗿𝗮𝗺 K𝗼𝗽𝗶𝘀𝗮𝗻𝘁𝗵𝗶𝗻𝗶",
+        "nic": "𝟮𝟬𝟬𝟲𝟲𝟵𝟳𝟬𝟮𝟱𝟳𝟮",
         "registrationNumber": "TRI02/DIP/IT/2025/P/32",
         "marks": [
           56,
