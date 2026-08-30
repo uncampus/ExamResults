@@ -915,8 +915,8 @@ window.RESULTS_DATA = {
           52,
           80
         ],
-        "final": "AB",
-        "average": 70.31,
+        "final": "72",
+        "average": 75.85,
         "attendance": 73.53
       },
       {
