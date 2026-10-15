@@ -3715,5 +3715,149 @@ window.RESULTS_DATA = {
         "attendance": 0
       }
     ]
+  },
+
+  //Diploma in Englis Batches
+  //DIE B01
+  "DIE-B01": {
+    "course": "Diploma in English",
+    "batch": "DIE - B01",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Parts of Speech"
+      },
+      {
+        "code": "M02",
+        "name": "Tenses"
+      },
+      {
+        "code": "M03",
+        "name": "Classified Vocabulary"
+      },
+      {
+        "code": "M04",
+        "name": "Practical Classroom Spoken English Activities"
+      },
+      {
+        "code": "M05",
+        "name": "Presentation Skills"
+      },
+      {
+        "code": "M06",
+        "name": "Active and Passive Voices"
+      },
+      {
+        "code": "M07",
+        "name": "Modal Verbs"
+      },
+      {
+        "code": "M08",
+        "name": "Telephone Conversation"
+      },
+      {
+        "code": "M09",
+        "name": "Reading and Comprehension"
+      },
+      {
+        "code": "M10",
+        "name": "Listening Activities"
+      },
+      {
+        "code": "M11",
+        "name": "Writing"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.P Poshalini",
+        "fullName": "Miss.Pragaskanna Poshalini",
+        "nic": "200775800633",
+        "registrationNumber": "TRI/DIP/EN/2024/P/03",
+        "marks": [
+          62,
+          61,
+          80,
+          46,
+          44,
+          44,
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 56,
+        "average": 56.14,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.T Abisha",
+        "fullName": "Miss.Thiviyaraj Abisha",
+        "nic": "200781504123",
+        "registrationNumber": "TRI/DIP/EN/2024/P/01",
+        "marks": [
+          56,
+          70,
+          70,
+          38,
+          46,
+          36,
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 53,
+        "average": 52.71,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.L Mathushani",
+        "fullName": "Miss.Loganathan Mathushani",
+        "nic": "200764000500",
+        "registrationNumber": "TRI/DIP/EN/2024/P/04",
+        "marks": [
+          61,
+          43,
+          86,
+          44,
+          44,
+          44,
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 54,
+        "average": 53.71,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.Y Sambavi",
+        "fullName": "Miss.Yathukulan Sambavi",
+        "nic": "199679803799",
+        "registrationNumber": "TRI/DIP/EN/2024/P/12",
+        "marks": [
+          44,
+          44,
+          44,
+          45,
+          72,
+          44,
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 49,
+        "average": 48.86,
+        "attendance": "N/A"
+      }
+    ]
   }
 };
