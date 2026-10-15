@@ -3819,5 +3819,249 @@ window.RESULTS_DATA = {
         "attendance": "N/A"
       }
     ]
+  },
+
+  //DIE B02
+  "DIE-B02": {
+    "course": "Diploma in English",
+    "batch": "DIE - B02",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Parts of Speech"
+      },
+      {
+        "code": "M02",
+        "name": "Tenses"
+      },
+      {
+        "code": "M03",
+        "name": "Classified Vocabulary"
+      },
+      {
+        "code": "M04",
+        "name": "Practical Classroom Spoken English Activities"
+      },
+      {
+        "code": "M05",
+        "name": "Presentation Skills"
+      },
+      {
+        "code": "M06",
+        "name": "Active and Passive Voices"
+      },
+      {
+        "code": "M07",
+        "name": "Modal Verbs"
+      },
+      {
+        "code": "M08",
+        "name": "Telephone Conversation"
+      },
+      {
+        "code": "M09",
+        "name": "Reading and Comprehension"
+      },
+      {
+        "code": "M10",
+        "name": "Listening Activities"
+      },
+      {
+        "code": "M11",
+        "name": "Writing"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.R Dishani Odiliya ",
+        "fullName": "Miss.Ravindran Dishani Odiliya ",
+        "nic": "200553200255",
+        "registrationNumber": "TRI/DIP/EN/2025/P/17",
+        "marks": [
+          43,
+          41,
+          80,
+          71,
+          71,
+          50,
+          69,
+          84,
+          "AB",
+          36,
+          76
+        ],
+        "average": 62.1,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.N Dalshika",
+        "fullName": "Miss.Nikshan Dalshika",
+        "nic": "200569502174",
+        "registrationNumber": "TRI/DIP/EN/2025/P/18",
+        "marks": [
+          61,
+          70,
+          97,
+          82,
+          96,
+          70,
+          84,
+          94,
+          70,
+          62,
+          86
+        ],
+        "average": 79.27,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Luxana",
+        "fullName": "Miss.Saseekaran Luxana",
+        "nic": "200569502174",
+        "registrationNumber": "TRI/DIP/EN/2025/P/19",
+        "marks": [
+          63,
+          71,
+          96,
+          85,
+          87,
+          78,
+          88,
+          78,
+          82,
+          80,
+          73
+        ],
+        "average": 80.09,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.R Shathusika",
+        "fullName": "Miss. Ramanan Shathusika",
+        "nic": "200575000633",
+        "registrationNumber": "TRI/DIP/EN/2025/P/20",
+        "marks": [
+          62,
+          72,
+          99,
+          84,
+          97,
+          60,
+          77,
+          94,
+          82,
+          72,
+          94
+        ],
+        "average": 81.18,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.R Dilujan",
+        "fullName": "Mr.Rasalingam Dilujan",
+        "nic": "200730401452",
+        "registrationNumber": "TRI/DIP/EN/2025/P/21",
+        "marks": [
+          19,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "average": 19,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.U Premila ",
+        "fullName": "Miss.Uthayarasa Premila ",
+        "nic": "200553602870",
+        "registrationNumber": "TRI/DIP/EN/2025/P/22",
+        "marks": [
+          45,
+          77,
+          86,
+          "N/A",
+          80,
+          66,
+          79,
+          84,
+          74,
+          40,
+          85
+        ],
+        "average": 71.6,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.V Yuvansika",
+        "fullName": "Miss.Vikneswaran Yuvansika",
+        "nic": "200773601311",
+        "registrationNumber": "TRI/DIP/EN/2025/P/15",
+        "marks": [
+          51,
+          63,
+          83,
+          73,
+          81,
+          80,
+          83,
+          87,
+          50,
+          60,
+          84
+        ],
+        "average": 72.27,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.L Vathumika",
+        "fullName": "Miss.Lingeshwaran Vathumika",
+        "nic": "200777501411",
+        "registrationNumber": "TRI/DIP/EN/2025/P/14",
+        "marks": [
+          47,
+          77,
+          99,
+          82,
+          80,
+          76,
+          86,
+          87,
+          78,
+          60,
+          81
+        ],
+        "average": 77.55,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.V Bonifas",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "UNC-DIEB02-009",
+        "marks": [
+          "N/A",
+          12,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "average": 12,
+        "attendance": "N/A"
+      }
+    ]
   }
 };
