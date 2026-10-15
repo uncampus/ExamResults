@@ -4045,7 +4045,7 @@ window.RESULTS_DATA = {
         "name": "Mr.V Bonifas",
         "fullName": "",
         "nic": "",
-        "registrationNumber": "UNC-DIEB02-009",
+        "registrationNumber": "-",
         "marks": [
           "N/A",
           12,
@@ -4060,6 +4060,418 @@ window.RESULTS_DATA = {
           "N/A"
         ],
         "average": 12,
+        "attendance": "N/A"
+      }
+    ]
+  },
+
+  //DIE B03 & B04
+  "DIE-B03 & B04": {
+    "course": "Diploma in English",
+    "batch": "DIE - B03 & B04",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Parts of Speech"
+      },
+      {
+        "code": "M02",
+        "name": "Tenses"
+      },
+      {
+        "code": "M03",
+        "name": "Classified Vocabulary"
+      },
+      {
+        "code": "M04",
+        "name": "Practical Classroom Spoken English Activities"
+      },
+      {
+        "code": "M05",
+        "name": "Presentation Skills"
+      },
+      {
+        "code": "M06",
+        "name": "Active and Passive Voices"
+      },
+      {
+        "code": "M07",
+        "name": "Modal Verbs"
+      },
+      {
+        "code": "M08",
+        "name": "Telephone Conversation"
+      },
+      {
+        "code": "M09",
+        "name": "Reading and Comprehension"
+      },
+      {
+        "code": "M10",
+        "name": "Listening Activities"
+      },
+      {
+        "code": "M11",
+        "name": "Writing"
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr.S Shiyon",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          "AB",
+          26,
+          60,
+          62,
+          "AB",
+          56,
+          "AB",
+          81,
+          47,
+          60,
+          "N/A"
+        ],
+        "average": 56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Tharunenthira",
+        "fullName": "Mr.Suthakaran Tharunenthira",
+        "nic": "200819400202",
+        "registrationNumber": "TRI/DIP/EN/2025/P/40",
+        "marks": [
+          86,
+          94,
+          93,
+          91,
+          95,
+          91,
+          90,
+          98,
+          78,
+          90,
+          92
+        ],
+        "average": 90.73,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.M Rakshana",
+        "fullName": "Miss.Mohanathas Rakshana",
+        "nic": "200162700925",
+        "registrationNumber": "TRI/DIP/EN/2025/P/43",
+        "marks": [
+          79,
+          82,
+          93,
+          "AB",
+          96,
+          81,
+          86,
+          69,
+          72,
+          40,
+          87
+        ],
+        "average": 78.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.V Janukshan",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          50,
+          21,
+          "AB",
+          68,
+          "AB",
+          49,
+          "AB",
+          55,
+          33,
+          70,
+          50
+        ],
+        "average": 49.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Dilani",
+        "fullName": "Miss. Koneswaran Dilani",
+        "nic": "200575900144",
+        "registrationNumber": "TRI/DIP/EN/2025/P/33",
+        "marks": [
+          63,
+          80,
+          87,
+          78,
+          74,
+          78,
+          96,
+          68,
+          "AB",
+          80,
+          85
+        ],
+        "average": 78.9,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.V Hamshiya",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          58,
+          66,
+          89,
+          77,
+          72,
+          "AB",
+          84,
+          67,
+          "AB",
+          "AB",
+          "N/A"
+        ],
+        "average": 73.29,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.J Dishalini",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          41,
+          1,
+          "AB",
+          69,
+          52,
+          54,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A"
+        ],
+        "average": 43.4,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.K Kavisayan ",
+        "fullName": "Mr.Kones Kavisayan ",
+        "nic": "200807500205",
+        "registrationNumber": "TRI/DIP/EN/2025/P/42",
+        "marks": [
+          48,
+          13,
+          61,
+          68,
+          71,
+          55,
+          58,
+          39,
+          31,
+          40,
+          60
+        ],
+        "average": 49.45,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Jathurshan",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          "AB",
+          46,
+          92,
+          85,
+          79,
+          51,
+          "AB",
+          "AB",
+          65,
+          90,
+          "N/A"
+        ],
+        "average": 72.57,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.P Vaishnavan ",
+        "fullName": "Mr.Pratheepan Vaishnavan ",
+        "nic": "200802602766",
+        "registrationNumber": "TRI/DIP/EN/2025/P/39",
+        "marks": [
+          55,
+          19,
+          77,
+          82,
+          88,
+          76,
+          51,
+          57,
+          64,
+          70,
+          82
+        ],
+        "average": 65.55,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.J Venujan",
+        "fullName": "Mr.Jayajeevan Venujan",
+        "nic": "200900901749",
+        "registrationNumber": "TRI/DIP/EN/2025/P/45",
+        "marks": [
+          51,
+          2,
+          62,
+          64,
+          69,
+          58,
+          58,
+          60,
+          "AB",
+          "AB",
+          79
+        ],
+        "average": 55.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.R Kenujan",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          65,
+          67,
+          78,
+          74,
+          79,
+          70,
+          79,
+          77,
+          33,
+          50,
+          "N/A"
+        ],
+        "average": 67.2,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Tharmitha",
+        "fullName": "Miss.Sathiyaroopan Tharmitha",
+        "nic": "200870402125",
+        "registrationNumber": "TRI/DIP/EN/2025/P/35",
+        "marks": [
+          84,
+          86,
+          96,
+          92,
+          88,
+          88,
+          94,
+          94,
+          64,
+          95,
+          86
+        ],
+        "average": 87.91,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.I Thirukshika",
+        "fullName": "Miss.Inkaran Thirukshika",
+        "nic": "200877605259",
+        "registrationNumber": "TRI/DIP/EN/2025/P/36",
+        "marks": [
+          80,
+          77,
+          96,
+          "AB",
+          88,
+          82,
+          96,
+          98,
+          55,
+          90,
+          "N/A"
+        ],
+        "average": 84.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.P Nilakshan",
+        "fullName": "Mr.Prabakaran Nilakshan",
+        "nic": "200504800254",
+        "registrationNumber": "TRI/DIP/EN/2025/P/41",
+        "marks": [
+          68,
+          60,
+          70,
+          78,
+          93,
+          75,
+          70,
+          81,
+          59,
+          "AB",
+          81
+        ],
+        "average": 73.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.Aynkaran",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          72,
+          "AB",
+          77,
+          83,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          63,
+          70,
+          "N/A"
+        ],
+        "average": 73,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.Benadicshan",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          "AB",
+          "AB",
+          75,
+          72,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          80,
+          "N/A"
+        ],
+        "average": 75.67,
         "attendance": "N/A"
       }
     ]
