@@ -3747,26 +3747,6 @@ window.RESULTS_DATA = {
       {
         "code": "M06",
         "name": "Active and Passive Voices"
-      },
-      {
-        "code": "M07",
-        "name": "Modal Verbs"
-      },
-      {
-        "code": "M08",
-        "name": "Telephone Conversation"
-      },
-      {
-        "code": "M09",
-        "name": "Reading and Comprehension"
-      },
-      {
-        "code": "M10",
-        "name": "Listening Activities"
-      },
-      {
-        "code": "M11",
-        "name": "Writing"
       }
     ],
     "students": [
@@ -3781,12 +3761,7 @@ window.RESULTS_DATA = {
           80,
           46,
           44,
-          44,
-          "",
-          "",
-          "",
-          "",
-          ""
+          44
         ],
         "final": 56,
         "average": 56.14,
@@ -3803,12 +3778,7 @@ window.RESULTS_DATA = {
           70,
           38,
           46,
-          36,
-          "",
-          "",
-          "",
-          "",
-          ""
+          36
         ],
         "final": 53,
         "average": 52.71,
@@ -3825,12 +3795,7 @@ window.RESULTS_DATA = {
           86,
           44,
           44,
-          44,
-          "",
-          "",
-          "",
-          "",
-          ""
+          44
         ],
         "final": 54,
         "average": 53.71,
@@ -3847,12 +3812,7 @@ window.RESULTS_DATA = {
           44,
           45,
           72,
-          44,
-          "",
-          "",
-          "",
-          "",
-          ""
+          44
         ],
         "final": 49,
         "average": 48.86,
