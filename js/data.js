@@ -213,6 +213,1063 @@ window.RESULTS_DATA = {
       }
     ]
   },
+
+  //DIIT B06
+  "DIIT-B06": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B06",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network Components"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Creating Graphics"
+      },
+      {
+        "code": "M06",
+        "name": "Internet, Emails, and AI Technology"
+      },
+      {
+        "code": "M07",
+        "name": "Design & Develop Static Web Pages"
+      },
+      {
+        "code": "M08",
+        "name": "Prog. Techniques & System"
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr.T Subitharan",
+        "fullName": "Mr.Thishanthan Subitharan",
+        "nic": "200504503427",
+        "registrationNumber": "TRI/DIP/IT/2025/P/71",
+        "marks": [
+          95,
+          75,
+          90,
+          85,
+          94,
+          98,
+          88,
+          88
+        ],
+        "final": 86,
+        "average": 88.78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Jathussan",
+        "fullName": "Mr.Sivanesan Jathussan",
+        "nic": "200803301750",
+        "registrationNumber": "TRI/DIP/IT/2025/P/76",
+        "marks": [
+          96,
+          80,
+          82,
+          88,
+          86,
+          100,
+          90,
+          88
+        ],
+        "final": 88,
+        "average": 88.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.M Rakshana",
+        "fullName": "Miss.Mohanathas Rakshana",
+        "nic": "200162700925",
+        "registrationNumber": "TRI/DIP/IT/2025/P/75",
+        "marks": [
+          76,
+          63,
+          55,
+          84,
+          84,
+          76,
+          74,
+          95
+        ],
+        "final": 82,
+        "average": 76.56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.R Kenujan",
+        "fullName": "Mr.Rameshkumar Kenujan",
+        "nic": "200526004929",
+        "registrationNumber": "TRI/DIP/IT/2025/P/69",
+        "marks": [
+          88,
+          60,
+          "AB",
+          76,
+          "AB",
+          96,
+          65,
+          92
+        ],
+        "final": 61,
+        "average": 76.86,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Sarmini",
+        "fullName": "Miss.Keatheeswaran Sarmini",
+        "nic": "200852701631",
+        "registrationNumber": "TRI/DIP/IT/2025/P/66",
+        "marks": [
+          81,
+          65,
+          74,
+          76,
+          "AB",
+          68,
+          63,
+          "AB"
+        ],
+        "final": 30,
+        "average": 65.29,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.A Abisana",
+        "fullName": "Miss.Amirthalingam Abisana",
+        "nic": "200781602118",
+        "registrationNumber": "TRI/DIP/IT/2025/P/67",
+        "marks": [
+          68,
+          65,
+          60,
+          76,
+          "AB",
+          78,
+          63,
+          "AB"
+        ],
+        "final": 24,
+        "average": 62,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.I Thirukshika",
+        "fullName": "Miss.Inkaran Thirukshika",
+        "nic": "200877605259",
+        "registrationNumber": "TRI/DIP/IT/2025/P/62",
+        "marks": [
+          40,
+          55,
+          76,
+          68,
+          94,
+          98,
+          64,
+          88
+        ],
+        "final": 68,
+        "average": 72.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Tharunenthira",
+        "fullName": "Mr.Suthakaran Tharunenthira",
+        "nic": "200819400202",
+        "registrationNumber": "TRI/DIP/IT/2025/P/72",
+        "marks": [
+          92,
+          89,
+          79,
+          91,
+          94,
+          96,
+          90,
+          90
+        ],
+        "final": 88,
+        "average": 89.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.J Venujan",
+        "fullName": "Mr.Jayajeevan Venujan",
+        "nic": "200900901749",
+        "registrationNumber": "TRI/DIP/IT/2025/P/68",
+        "marks": [
+          66,
+          61,
+          44,
+          69,
+          40,
+          66,
+          55,
+          85
+        ],
+        "final": 51,
+        "average": 59.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Nivetha",
+        "fullName": "Miss.Kamalanathan Nivetha",
+        "nic": "200162400953",
+        "registrationNumber": "TRI/DIP/IT/2025/P/60",
+        "marks": [
+          77,
+          70,
+          "AB",
+          64,
+          "AB",
+          58,
+          "AB",
+          "AB"
+        ],
+        "final": "AB",
+        "average": 67.25,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Tharmitha",
+        "fullName": "Miss.Sathiyarupan Tharmitha",
+        "nic": "200870402125",
+        "registrationNumber": "TRI/DIP/IT/2025/P/63",
+        "marks": [
+          98,
+          67,
+          71,
+          82,
+          96,
+          98,
+          85,
+          90
+        ],
+        "final": 64,
+        "average": 83.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Aynkaran",
+        "fullName": "Mr.Sivamohan Aynkaran",
+        "nic": "200726505180",
+        "registrationNumber": "TRI/DIP/IT/2025/P/57",
+        "marks": [
+          88,
+          78,
+          73,
+          79,
+          64,
+          78,
+          60,
+          85
+        ],
+        "final": 56,
+        "average": 73.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Surena",
+        "fullName": "Miss.Kamalanathan Surena",
+        "nic": "200859702354",
+        "registrationNumber": "TRI/DIP/IT/2025/P/76",
+        "marks": [
+          "AB",
+          70,
+          "AB",
+          57,
+          "AB",
+          "AB",
+          "AB",
+          "AB"
+        ],
+        "final": "AB",
+        "average": 63.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.T Yashika",
+        "fullName": "Miss.Thavayoganathan Yashika",
+        "nic": "200861503560",
+        "registrationNumber": "TRI/DIP/IT/2025/P/58",
+        "marks": [
+          42,
+          62,
+          79,
+          73,
+          72,
+          80,
+          40,
+          87
+        ],
+        "final": 73,
+        "average": 67.56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.K Kavisayan",
+        "fullName": "Mr.Kones Kavisayan",
+        "nic": "200807500205",
+        "registrationNumber": "TRI/DIP/IT/2025/P/74",
+        "marks": [
+          44,
+          45,
+          46,
+          69,
+          40,
+          54,
+          58,
+          85
+        ],
+        "final": 40,
+        "average": 53.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Faththima Rifna",
+        "fullName": "Miss.Simardeen Faththima Rifna",
+        "nic": "200058404393",
+        "registrationNumber": "TRI/DIP/IT/2025/P/64",
+        "marks": [
+          71,
+          63,
+          40,
+          72,
+          40,
+          72,
+          63,
+          93
+        ],
+        "final": 40,
+        "average": 61.56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Sabarish",
+        "fullName": "Mr.Sathishkumar Sabarish",
+        "nic": "200707903623",
+        "registrationNumber": "TRI/DIP/IT/2025/P/59",
+        "marks": [
+          90,
+          60,
+          58,
+          74,
+          56,
+          86,
+          60,
+          93
+        ],
+        "final": 72,
+        "average": 72.11,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Dilani",
+        "fullName": "Miss.Koneswaran Dilani",
+        "nic": "200575900144",
+        "registrationNumber": "TRI/DIP/IT/2025/P/61",
+        "marks": [
+          85,
+          83,
+          56,
+          78,
+          50,
+          88,
+          64,
+          86
+        ],
+        "final": 40,
+        "average": 70,
+        "attendance": "N/A"
+      }
+    ]
+  },
+
+  //DIIT B07
+  "DIIT-B07": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B07",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Computational Mathematics & Logic"
+      },
+      {
+        "code": "M06",
+        "name": "Programming with Python"
+      },
+      {
+        "code": "M07",
+        "name": "Database & SQL"
+      },
+      {
+        "code": "M08",
+        "name": "Graphics with Photoshop"
+      },
+      {
+        "code": "M09",
+        "name": "Internet, Emails, and AI"
+      },
+      {
+        "code": "M10",
+        "name": "Static Web Pages (HTML/CSS)"
+      },
+      {
+        "code": "M11",
+        "name": "Prog. Techniques & System"
+      },
+      {
+        "code": "M12",
+        "name": "Desktop Dev with C#.Net"
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr.T Yukanraj",
+        "fullName": "Mr.Thangeswaran Yukanraj",
+        "nic": "200822400166",
+        "registrationNumber": "TRI/DIP/IT/2025/P/78",
+        "marks": [
+          96,
+          96,
+          79,
+          98,
+          97,
+          92,
+          93,
+          85,
+          90,
+          86,
+          90,
+          96
+        ],
+        "final": 97,
+        "average": 95.92,
+        "attendance": 95.92
+      },
+      {
+        "name": "Miss.M I F Hafsha",
+        "fullName": "Miss.Muhammed Irshath Fathima Hafsha",
+        "nic": "200867503796",
+        "registrationNumber": "TRI/DIP/IT/2025/P/79",
+        "marks": [
+          67,
+          92,
+          44,
+          92,
+          99,
+          90,
+          91,
+          85,
+          84,
+          74,
+          69,
+          95
+        ],
+        "final": 79,
+        "average": 100,
+        "attendance": 100
+      },
+      {
+        "name": "Miss.G Dilukshika",
+        "fullName": "Miss.Gowreeswaran Dilukshika",
+        "nic": "200583000760",
+        "registrationNumber": "TRI/DIP/IT/2025/P/80",
+        "marks": [
+          72,
+          84,
+          58,
+          90,
+          61,
+          86,
+          90,
+          80,
+          56,
+          74,
+          63,
+          90
+        ],
+        "final": 44,
+        "average": 93.88,
+        "attendance": 93.88
+      },
+      {
+        "name": "Mr.S Vishnu",
+        "fullName": "Mr.Sivakumar Vishnu",
+        "nic": "200524000789",
+        "registrationNumber": "UNC-DIITB07-004",
+        "marks": [
+          66,
+          50,
+          41,
+          80,
+          "AB",
+          "AB",
+          74,
+          "AB",
+          68,
+          "AB",
+          "AB",
+          "AB"
+        ],
+        "final": "AB",
+        "average": 65.31,
+        "attendance": 65.31
+      },
+      {
+        "name": "Miss.S Prathushani",
+        "fullName": "Miss.Suntharalingam Prathushani",
+        "nic": "200764703272",
+        "registrationNumber": "TRI/DIP/IT/2025/P/83",
+        "marks": [
+          50,
+          56,
+          41,
+          83,
+          61,
+          "AB",
+          85,
+          78,
+          54,
+          72,
+          59,
+          90
+        ],
+        "final": 47,
+        "average": 91.84,
+        "attendance": 91.84
+      },
+      {
+        "name": "Miss.M H Arusha",
+        "fullName": "Miss.Muhamathu Hanifa Arusha",
+        "nic": "200368012187",
+        "registrationNumber": "TRI/DIP/IT/2025/P/82",
+        "marks": [
+          53,
+          42,
+          48,
+          77,
+          63,
+          60,
+          85,
+          76,
+          42,
+          53,
+          66,
+          88
+        ],
+        "final": 45,
+        "average": 95.92,
+        "attendance": 95.92
+      },
+      {
+        "name": "Miss.A Sathustikka",
+        "fullName": "Miss.Ayenthiran Sathustikka",
+        "nic": "200770202711",
+        "registrationNumber": "UNC-DIITB07-007",
+        "marks": [
+          52,
+          24,
+          44,
+          75,
+          23,
+          62,
+          40,
+          70,
+          32,
+          50,
+          78,
+          88
+        ],
+        "final": "AB",
+        "average": 73.47,
+        "attendance": 73.47
+      },
+      {
+        "name": "Miss.P Pavatharni",
+        "fullName": "Miss.Pragash Pavatharni",
+        "nic": "200652000690",
+        "registrationNumber": "TRI/DIP/IT/2025/P/84",
+        "marks": [
+          70,
+          92,
+          55,
+          87,
+          79,
+          73,
+          87,
+          78,
+          66,
+          82,
+          81,
+          94
+        ],
+        "final": 68,
+        "average": 97.96,
+        "attendance": 97.96
+      },
+      {
+        "name": "Mr.N Abdul Aathil",
+        "fullName": "Mr.Muhammad Naleem Abdul Aathil",
+        "nic": "200801005130",
+        "registrationNumber": "UNC-DIITB07-009",
+        "marks": [
+          "AB",
+          "AB",
+          "AB",
+          75,
+          "AB",
+          "AB",
+          40,
+          74,
+          52,
+          40,
+          "AB",
+          "AB"
+        ],
+        "final": "AB",
+        "average": 73.47,
+        "attendance": 73.47
+      },
+      {
+        "name": "Miss.S Yathurshiya",
+        "fullName": "Miss.Yathurshiya Sivamathan",
+        "nic": "200575502269",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/06",
+        "marks": [
+          83,
+          88,
+          54,
+          94,
+          96,
+          94,
+          89,
+          80,
+          69,
+          88,
+          63,
+          93
+        ],
+        "final": 74,
+        "average": 91.84,
+        "attendance": 91.84
+      },
+      {
+        "name": "Miss.T Niththiya Sri",
+        "fullName": "Miss.Thineshkumar Niththiya Sri ",
+        "nic": "200559002009",
+        "registrationNumber": "TRI/DIP/IT/2025/P/86",
+        "marks": [
+          90,
+          94,
+          74,
+          90,
+          91,
+          86,
+          92,
+          85,
+          85,
+          75,
+          81,
+          93
+        ],
+        "final": 70,
+        "average": 95.56,
+        "attendance": 95.56
+      },
+      {
+        "name": "Mr.S Stephenraj",
+        "fullName": "Mr.Selva Stepanraj",
+        "nic": "200323113327",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/16",
+        "marks": [
+          83,
+          86,
+          72,
+          88,
+          89,
+          64,
+          88,
+          82,
+          85,
+          73,
+          83,
+          90
+        ],
+        "final": 66,
+        "average": 89.19,
+        "attendance": 89.19
+      },
+      {
+        "name": "Mr.A S M Safraz",
+        "fullName": "Mr.Abdul Sathar Mohammed Safraz",
+        "nic": "200302401547",
+        "registrationNumber": "TRI/DIP/IT/2025/P/88",
+        "marks": [
+          81,
+          88,
+          63,
+          94,
+          84,
+          67,
+          90,
+          80,
+          78,
+          73,
+          79,
+          90
+        ],
+        "final": 76,
+        "average": 91.43,
+        "attendance": 91.43
+      },
+      {
+        "name": "Mr.V Janukshan",
+        "fullName": "Mr.Vijayarasa Janukshan",
+        "nic": "200520300159",
+        "registrationNumber": "UNC-DIITB07-014",
+        "marks": [
+          42,
+          "AB",
+          "AB",
+          "AB",
+          55,
+          52,
+          40,
+          74,
+          "AB",
+          40,
+          58,
+          78
+        ],
+        "final": "AB",
+        "average": 58.82,
+        "attendance": 58.82
+      }
+    ]
+  },
+
+  //DIIT B08
+  "DIIT-B08": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B08",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Computational Mathematics & Logic"
+      },
+      {
+        "code": "M06",
+        "name": "Programming with Python"
+      },
+      {
+        "code": "M07",
+        "name": "Database & SQL"
+      },
+      {
+        "code": "M08",
+        "name": "Graphics with Photoshop"
+      },
+      {
+        "code": "M09",
+        "name": "Internet, Emails, and AI"
+      },
+      {
+        "code": "M10",
+        "name": "Static Web Pages (HTML/CSS)"
+      },
+      {
+        "code": "M11",
+        "name": "Prog. Techniques & System"
+      },
+      {
+        "code": "M12",
+        "name": "Desktop Dev with C#.Net"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.A L Amshiya",
+        "fullName": "Miss.Asana Lebbe Amshiya",
+        "nic": "906223201V",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/05",
+        "marks": [
+          71,
+          54,
+          52,
+          76,
+          74,
+          72,
+          83,
+          73,
+          66,
+          77,
+          50,
+          75
+        ],
+        "final": 54,
+        "average": 67.46,
+        "attendance": 93.85
+      },
+      {
+        "name": "Miss.V Thanusshika",
+        "fullName": "Miss.Vijayakumar Thanusshika",
+        "nic": "200573500100",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/03",
+        "marks": [
+          74,
+          84,
+          65,
+          82,
+          90,
+          76,
+          89,
+          78,
+          76,
+          76,
+          59,
+          80
+        ],
+        "final": 74,
+        "average": 77.15,
+        "attendance": 75.38
+      },
+      {
+        "name": "Miss.R Rishani",
+        "fullName": "Miss.Rajenthiran Rishani",
+        "nic": "200564200059",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/02",
+        "marks": [
+          43,
+          54,
+          55,
+          75,
+          78,
+          68,
+          80,
+          78,
+          66,
+          72,
+          56,
+          70
+        ],
+        "final": 54,
+        "average": 65.31,
+        "attendance": 89.23
+      },
+      {
+        "name": "Mr.J Daniel Shevon",
+        "fullName": "Mr.Jeikumar Daniel Shevon",
+        "nic": "200412100228",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/07",
+        "marks": [
+          86,
+          92,
+          64,
+          88,
+          92,
+          79,
+          78,
+          78,
+          40,
+          78,
+          42,
+          75
+        ],
+        "final": 60,
+        "average": 73.23,
+        "attendance": 67.69
+      },
+      {
+        "name": "Mr.U Kesavan",
+        "fullName": "Mr.Ukanthan Kesavan",
+        "nic": "200616704557",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/10",
+        "marks": [
+          56,
+          50,
+          54,
+          80,
+          72,
+          78,
+          85,
+          78,
+          64,
+          78,
+          57,
+          85
+        ],
+        "final": 52,
+        "average": 68.38,
+        "attendance": 81.54
+      },
+      {
+        "name": "Mr.S Siththarth",
+        "fullName": "Mr.Srikanth Siththarth",
+        "nic": "200727201395",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/12",
+        "marks": [
+          60,
+          49,
+          70,
+          86,
+          40,
+          80,
+          74,
+          70,
+          68,
+          79,
+          58,
+          73
+        ],
+        "final": 54,
+        "average": 66.23,
+        "attendance": 100
+      },
+      {
+        "name": "Mr.T Mathushan",
+        "fullName": "Mr.Thanabalasingam Mathushan",
+        "nic": "200233201543",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/15",
+        "marks": [
+          85,
+          77,
+          81,
+          90,
+          90,
+          85,
+          78,
+          78,
+          90,
+          80,
+          84,
+          90
+        ],
+        "final": 75,
+        "average": 83.31,
+        "attendance": 98.33
+      },
+      {
+        "name": "Miss.S Theevika",
+        "fullName": "Miss.Santhiran Theevika",
+        "nic": "200365113592",
+        "registrationNumber": "TRI/DIP/IT/2025/P/89",
+        "marks": [
+          56,
+          64,
+          88,
+          78,
+          68,
+          80,
+          90,
+          72,
+          63,
+          78,
+          90,
+          88
+        ],
+        "final": 66,
+        "average": 75.46,
+        "attendance": 87.27
+      },
+      {
+        "name": "Miss.C Preethy",
+        "fullName": "Miss.Preethy Chandravarman",
+        "nic": "200760100647",
+        "registrationNumber": "TRI02/DIP/IT/2025/P/17",
+        "marks": [
+          65,
+          44,
+          41,
+          77,
+          76,
+          74,
+          83,
+          70,
+          71,
+          76,
+          55,
+          78
+        ],
+        "final": 68,
+        "average": 67.54,
+        "attendance": 98
+      },
+      {
+        "name": "Mr.G Yukarshikan",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "UNC-DIITB08-010",
+        "marks": [
+          63,
+          40,
+          56,
+          83,
+          "N/A",
+          83,
+          "N/A",
+          "N/A",
+          "N/A",
+          82,
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 67.83,
+        "attendance": 74.47
+      }
+    ]
+  },
+  
+  //DIIT B09
   "DIIT-B09": {
     "course": "Diploma in IT",
     "batch": "DIIT - B09",
