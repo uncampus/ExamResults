@@ -62,3 +62,31 @@ body.dark .print-modal{background:#0c1b39}.print-modal .input-wrap{background:tr
   .signature-grid strong{font-size:10px;min-height:12px}
   .signature-grid span{font-size:8px;margin-top:3px}
 }
+
+.department-section {
+    margin-bottom: 40px;
+}
+
+.department-heading {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--navy);
+    margin: 25px 0 20px;
+    padding: 0 0 12px;
+    border-bottom: 3px solid var(--blue);
+}
+
+body.dark .department-heading {
+    color: var(--ink);
+}
+
+@media (max-width: 700px) {
+    .department-heading {
+        font-size: 21px;
+        margin-top: 20px;
+    }
+
+    .department-section {
+        margin-bottom: 28px;
+    }
+}
