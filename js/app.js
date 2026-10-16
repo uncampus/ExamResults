@@ -62,28 +62,72 @@
     el.className=`form-message ${type}`;
   }
 
-  function renderBatches(){
-    const grid = $("#batchGrid");
+  function renderBatches() {
+    const itGrid = document.querySelector("#itBatchGrid");
+    const englishGrid = document.querySelector("#englishBatchGrid");
+
     const batches = allBatches();
-    if(!batches.length){
-      grid.innerHTML='<div class="empty-state">No batches are currently available. Please contact the institute.</div>';
-      return;
+
+    if (!batches.length) {
+        const emptyMessage =
+            '<div class="empty-state">No batches are currently available. Please contact the institute.</div>';
+
+        if (itGrid) itGrid.innerHTML = emptyMessage;
+        if (englishGrid) englishGrid.innerHTML = "";
+        return;
     }
-    grid.innerHTML=batches.map((b,i)=>`
-      <article class="batch-card reveal" style="animation-delay:${i*0.06}s" data-batch="${esc(b.id)}">
-        <div class="batch-code">${esc(b.batch || b.id)}</div>
-        <div class="batch-name">${esc(b.course || "Academic Programme")}</div>
-        
-      </article>`).join("");
-    $$(".batch-card",grid).forEach(card=>card.addEventListener("click",()=>{
-      selectedBatch=card.dataset.batch;
-      $("#studentBatchTitle").textContent = `${getBatch(selectedBatch).batch || selectedBatch} — Result Search`;
-      $("#studentSearchInput").value="";
-      $("#studentSearchMessage").textContent="";
-      $("#resultContainer").innerHTML="";
-      showView("#studentSearchView");
-    }));
+
+    // Separate batches using the existing course data.
+    const itBatches = batches.filter(b =>
+        String(b.course || "").toLowerCase().includes("it")
+    );
+
+    const englishBatches = batches.filter(b =>
+        String(b.course || "").toLowerCase().includes("english")
+    );
+
+    function renderBatchCards(batchList, grid) {
+        if (!grid) return;
+
+        if (!batchList.length) {
+            grid.innerHTML =
+                '<div class="empty-state">No batches available in this department.</div>';
+            return;
+        }
+
+        grid.innerHTML = batchList.map((b, i) => `
+            <article
+                class="batch-card reveal"
+                style="animation-delay:${i * 0.06}s"
+                data-batch="${esc(b.id)}"
+            >
+                <div class="batch-code">${esc(b.batch || b.id)}</div>
+                <div class="batch-name">
+                    ${esc(b.course || "Academic Programme")}
+                </div>
+            </article>
+        `).join("");
+
+        $$(".batch-card", grid).forEach(card => {
+            card.addEventListener("click", () => {
+                selectedBatch = card.dataset.batch;
+
+                $("#studentBatchTitle").textContent =
+                    `${getBatch(selectedBatch).batch || selectedBatch} — Result Search`;
+
+                $("#studentSearchInput").value = "";
+                $("#studentSearchMessage").textContent = "";
+                $("#resultContainer").innerHTML = "";
+
+                showView("#studentSearchView");
+            });
+        });
+    }
+
+    renderBatchCards(itBatches, itGrid);
+    renderBatchCards(englishBatches, englishGrid);
   }
+
 
   function renderStudentResult(student,batch){
     const scale=gradeFor(student.average);
