@@ -23,10 +23,6 @@ window.RESULTS_DATA = {
         "name": "MS OFFICE"
       },
       {
-        "code": "MID",
-        "name": "MID EXAM"
-      },
-      {
         "code": "M05",
         "name": "Creating Graphics"
       },
@@ -54,14 +50,13 @@ window.RESULTS_DATA = {
           64,
           72,
           85,
-          77,
           73,
           80,
           78,
           75
         ],
         "final": 70,
-        "average": 75,
+        "average": 74.78,
         "attendance": "N/A"
       },
       {
@@ -77,14 +72,10 @@ window.RESULTS_DATA = {
           81,
           82,
           85,
-          83,
-          "",
-          "",
-          "",
-          ""
+          83
         ],
         "final": 76,
-        "average": 75.5,
+        "average": 76.11,
         "attendance": "N/A"
       },
       {
@@ -100,14 +91,10 @@ window.RESULTS_DATA = {
           77,
           85,
           80,
-          79,
-          "",
-          "",
-          "",
-          ""
+          79
         ],
         "final": 82,
-        "average": 76.9,
+        "average": 75.78,
         "attendance": "N/A"
       },
       {
@@ -123,14 +110,10 @@ window.RESULTS_DATA = {
           93,
           87,
           88,
-          85,
-          "",
-          "",
-          "",
-          ""
+          85
         ],
         "final": 67,
-        "average": 79.1,
+        "average": 78,
         "attendance": "N/A"
       },
       {
@@ -146,14 +129,614 @@ window.RESULTS_DATA = {
           "N/A",
           "N/A",
           "N/A",
-          "N/A",
-          "",
-          "",
-          "",
-          ""
+          "N/A"
         ],
         "final": 62,
-        "average": 61.4,
+        "average": 66.5,
+        "attendance": "N/A"
+      }
+    ]
+  },
+
+  //DIIT B02
+  "DIIT-B02": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B02",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Creating Graphics"
+      },
+      {
+        "code": "M06",
+        "name": "Internet, Emails, and AI Technology"
+      },
+      {
+        "code": "M07",
+        "name": "Design & Develop Static Web Pages"
+      },
+      {
+        "code": "M08",
+        "name": "Prog. Techniques & System"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.V M Narmisha",
+        "fullName": "Miss.Vijayakumar Miska Narmisha",
+        "nic": "200178501115",
+        "registrationNumber": "TRI/DIP/IT/2024/P/15",
+        "marks": [
+          97,
+          82,
+          84,
+          98,
+          85,
+          88,
+          85,
+          84
+        ],
+        "final": 83,
+        "average": 87.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.M M Ashfaq Ahamed",
+        "fullName": "Mr.Mohamed Mihar Ashfaq Ahamed",
+        "nic": "200630600440",
+        "registrationNumber": "TRI/DIP/IT/2024/P/14",
+        "marks": [
+          82,
+          96,
+          88,
+          96,
+          87,
+          87,
+          85,
+          84
+        ],
+        "final": 77,
+        "average": 86.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.N Fathima Nifra",
+        "fullName": "Miss.Nilam Fathima Nifra",
+        "nic": "200267001452",
+        "registrationNumber": "TRI/DIP/IT/2024/P/18",
+        "marks": [
+          77,
+          70,
+          64,
+          75,
+          78,
+          85,
+          80,
+          64
+        ],
+        "final": 50,
+        "average": 71.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.R Dishaniodiliya",
+        "fullName": "Miss.Ravindran Dishaniodiliya",
+        "nic": "200553200255",
+        "registrationNumber": "TRI/DIP/IT/2025/P/21",
+        "marks": [
+          42,
+          70,
+          72,
+          70,
+          75,
+          85,
+          80,
+          64
+        ],
+        "final": 52,
+        "average": 67.78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.R Raseetha",
+        "fullName": "Miss.Raseek Raseetha",
+        "nic": "200582004426",
+        "registrationNumber": "TRI/DIP/IT/2025/P/19",
+        "marks": [
+          39,
+          49,
+          52,
+          65,
+          68,
+          84,
+          80,
+          72
+        ],
+        "final": 48,
+        "average": 61.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.P M Rocksani",
+        "fullName": "Miss.Peliks Manothas Rocksani",
+        "nic": "200157604169",
+        "registrationNumber": "TRI/DIP/IT/2024/P/17",
+        "marks": [
+          34,
+          45,
+          80,
+          55,
+          69,
+          84,
+          80,
+          72
+        ],
+        "final": 54,
+        "average": 63.67,
+        "attendance": "N/A"
+      }
+    ]
+  },
+
+  //DIIT B03
+  "DIIT-B03": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B03",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Creating Graphics"
+      },
+      {
+        "code": "M06",
+        "name": "Internet, Emails, and AI Technology"
+      },
+      {
+        "code": "M07",
+        "name": "Design & Develop Static Web Pages"
+      },
+      {
+        "code": "M08",
+        "name": "Prog. Techniques & System"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.R Surenthira",
+        "fullName": "Miss.Rajeswaran Surenthira",
+        "nic": "200551500295",
+        "registrationNumber": "TRI/DIP/IT/2025/P/26",
+        "marks": [
+          97,
+          86,
+          72,
+          86,
+          84,
+          82,
+          85,
+          50
+        ],
+        "final": 50,
+        "average": 76.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.W Yathursha",
+        "fullName": "Miss.Wimalaratna Yathursha",
+        "nic": "200460111005",
+        "registrationNumber": "TRI/DIP/IT/2025/P/30",
+        "marks": [
+          95,
+          79,
+          56,
+          30,
+          68,
+          85,
+          80,
+          45
+        ],
+        "final": 50,
+        "average": 65.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Kiruththika",
+        "fullName": "Miss.Sivanathan Kiruththika",
+        "nic": "200566301971",
+        "registrationNumber": "TRI/DIP/IT/2025/P/28",
+        "marks": [
+          91,
+          96,
+          80,
+          80,
+          88,
+          84,
+          85,
+          72
+        ],
+        "final": 81,
+        "average": 84.11,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Kirushalini",
+        "fullName": "Miss.Sivanathan Kirushalini",
+        "nic": "200566303958",
+        "registrationNumber": "TRI/DIP/IT/2025/P/27",
+        "marks": [
+          93,
+          90,
+          92,
+          72,
+          60,
+          80,
+          84,
+          78
+        ],
+        "final": 75,
+        "average": 80.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Niruththika",
+        "fullName": "Miss.Kokularaj Niruththika",
+        "nic": "200482004908",
+        "registrationNumber": "TRI/DIP/IT/2025/P/25",
+        "marks": [
+          85,
+          80,
+          76,
+          71,
+          80,
+          80,
+          84,
+          78
+        ],
+        "final": 67,
+        "average": 77.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.R Danusha",
+        "fullName": "Miss.Rajan Danusha",
+        "nic": "200651501605",
+        "registrationNumber": "TRI/DIP/IT/2025/P/22",
+        "marks": [
+          85,
+          83,
+          76,
+          67,
+          72,
+          84,
+          85,
+          72
+        ],
+        "final": 68,
+        "average": 76.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Mary Anushiya",
+        "fullName": "Miss.Sivapragasam Mary Anushiya",
+        "nic": "200555502040",
+        "registrationNumber": "TRI/DIP/IT/2025/P/29",
+        "marks": [
+          77,
+          84,
+          64,
+          42,
+          44,
+          80,
+          80,
+          84
+        ],
+        "final": 61,
+        "average": 68.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.H B M Atheef",
+        "fullName": "Mr.Hasan Basari Mohammedu Atheef",
+        "nic": "200509001144",
+        "registrationNumber": "TRI/DIP/IT/2025/P/31",
+        "marks": [
+          55,
+          72,
+          52,
+          67,
+          84,
+          84,
+          80,
+          78
+        ],
+        "final": 50,
+        "average": 69.11,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Pavithira",
+        "fullName": "Miss.Ketheeswaran Pavithira",
+        "nic": "200378400306",
+        "registrationNumber": "TRI/DIP/IT/2025/P/24",
+        "marks": [
+          40,
+          84,
+          32,
+          64,
+          40,
+          85,
+          80,
+          84
+        ],
+        "final": 72,
+        "average": 64.56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Suwetha",
+        "fullName": "Miss.Kalirasa Suwetha",
+        "nic": "200582503206",
+        "registrationNumber": "TRI/DIP/IT/2025/P/35",
+        "marks": [
+          35,
+          74,
+          36,
+          73,
+          72,
+          80,
+          80,
+          45
+        ],
+        "final": 42,
+        "average": 59.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.A Salini",
+        "fullName": "Miss.Anpalakan Salini",
+        "nic": "200361500349",
+        "registrationNumber": "TRI/DIP/IT/2025/P/23",
+        "marks": [
+          15,
+          69,
+          60,
+          60,
+          36,
+          80,
+          82,
+          84
+        ],
+        "final": 70,
+        "average": 61.78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.M Thanusha",
+        "fullName": "Miss.Maheswaran Thanusha",
+        "nic": "200477204126",
+        "registrationNumber": "TRI/DIP/IT/2025/P/52",
+        "marks": [
+          84,
+          88,
+          56,
+          44,
+          84,
+          81,
+          81,
+          50
+        ],
+        "final": 45,
+        "average": 68.11,
+        "attendance": "N/A"
+      }
+    ]
+  },
+
+  //DIIT B04
+  "DIIT-B04": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B04",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Creating Graphics"
+      },
+      {
+        "code": "M06",
+        "name": "Internet, Emails, and AI Technology"
+      },
+      {
+        "code": "M07",
+        "name": "Design & Develop Static Web Pages"
+      },
+      {
+        "code": "M08",
+        "name": "Prog. Techniques & System"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.U Premila",
+        "fullName": "Miss.Uthayarasa Premila",
+        "nic": "200553602870",
+        "registrationNumber": "TRI/DIP/IT/2025/P/34",
+        "marks": [
+          76,
+          68,
+          60,
+          70,
+          60,
+          81,
+          82,
+          60
+        ],
+        "final": 65,
+        "average": 69.11,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.R Shiron",
+        "fullName": "Mr.Ravindran Shiron",
+        "nic": "200531601109",
+        "registrationNumber": "TRI/DIP/IT/2025/P/43",
+        "marks": [
+          72,
+          96,
+          72,
+          85,
+          80,
+          89,
+          88,
+          68
+        ],
+        "final": 75,
+        "average": 80.56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.A Sutharshana",
+        "fullName": "Miss.Arulseelan Sutharshana",
+        "nic": "200573700802",
+        "registrationNumber": "TRI/DIP/IT/2025/P/42",
+        "marks": [
+          72,
+          60,
+          76,
+          70,
+          52,
+          82,
+          84,
+          80
+        ],
+        "final": 68,
+        "average": 71.56,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.J Yuvethika",
+        "fullName": "Miss.Jegatheesan Yuvethika",
+        "nic": "200583703163",
+        "registrationNumber": "TRI/DIP/IT/2025/P/32",
+        "marks": [
+          76,
+          84,
+          44,
+          73,
+          80,
+          85,
+          82,
+          80
+        ],
+        "final": 77,
+        "average": 75.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Luxsana",
+        "fullName": "Miss.Sasikaran Luxsana",
+        "nic": "200554600740",
+        "registrationNumber": "TRI/DIP/IT/2025/P/40",
+        "marks": [
+          84,
+          68,
+          80,
+          82,
+          84,
+          86,
+          84,
+          60
+        ],
+        "final": 72,
+        "average": 77.78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.G Saran",
+        "fullName": "Mr.Ganeshan Saran",
+        "nic": "200535501837",
+        "registrationNumber": "TRI/DIP/IT/2025/P/41",
+        "marks": [
+          72,
+          92,
+          80,
+          80,
+          36,
+          80,
+          80,
+          64
+        ],
+        "final": 59,
+        "average": 71.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.J David Sheraan",
+        "fullName": "Mr.Jeikumar David Sheraan",
+        "nic": "200531401922",
+        "registrationNumber": "TRI/DIP/IT/2025/P/36",
+        "marks": [
+          96,
+          96,
+          76,
+          79,
+          76,
+          86,
+          81,
+          64
+        ],
+        "final": 75,
+        "average": 81,
         "attendance": "N/A"
       }
     ]
