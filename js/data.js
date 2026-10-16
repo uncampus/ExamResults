@@ -1,5 +1,163 @@
 /* Results Portal Data - generated/updated from Excel-compatible records. */
 window.RESULTS_DATA = {
+  //DIIT B01
+  "DIIT-B01": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B01",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "MID",
+        "name": "MID EXAM"
+      },
+      {
+        "code": "M05",
+        "name": "Creating Graphics"
+      },
+      {
+        "code": "M06",
+        "name": "Internet, Emails, and AI Technology"
+      },
+      {
+        "code": "M07",
+        "name": "Design & Develop Static Web Pages"
+      },
+      {
+        "code": "M08",
+        "name": "Prog. Techniques & System"
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr. A M Risan",
+        "fullName": "Mr.Amunutheen Muhammathu Risan",
+        "nic": "200413003820",
+        "registrationNumber": "TRI/DIP/IT/2024/P/02",
+        "marks": [
+          76,
+          64,
+          72,
+          85,
+          73,
+          80,
+          78,
+          75
+        ],
+        "final": 70,
+        "average": 75,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.V Savijanthan",
+        "fullName": "Mr.Vishnukaran Savijanthan",
+        "nic": "200319012264",
+        "registrationNumber": "TRI/DIP/IT/2024/P/11",
+        "marks": [
+          60,
+          64,
+          80,
+          74,
+          81,
+          82,
+          85,
+          83,
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 76,
+        "average": 75.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.P Atshaya",
+        "fullName": "Miss.Piremarathan Atshaya",
+        "nic": "200480404528",
+        "registrationNumber": "TRI/DIP/IT/2024/P/03",
+        "marks": [
+          48,
+          72,
+          76,
+          83,
+          77,
+          85,
+          80,
+          79,
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 82,
+        "average": 76.9,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.J D Jeroshan",
+        "fullName": "Mr.Jeyarajh Devon Jeroshan",
+        "nic": "200709603995",
+        "registrationNumber": "TRI/DIP/IT/2024/P/10",
+        "marks": [
+          56,
+          68,
+          92,
+          66,
+          93,
+          87,
+          88,
+          85,
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 67,
+        "average": 79.1,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.T Pethushan",
+        "fullName": "Mr. Thivakaran Pethushan",
+        "nic": "200531203657",
+        "registrationNumber": "TRI/DIP/IT/2024/P/01",
+        "marks": [
+          60,
+          80,
+          64,
+          "AB",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "final": 62,
+        "average": 61.4,
+        "attendance": "N/A"
+      }
+    ]
+  },
+  
   //DIIT B05
   "DIIT-B05": {
     "course": "Diploma in IT",
@@ -1247,7 +1405,7 @@ window.RESULTS_DATA = {
         "name": "Mr.G Yukarshikan",
         "fullName": "",
         "nic": "",
-        "registrationNumber": "UNC-DIITB08-010",
+        "registrationNumber": "-",
         "marks": [
           63,
           40,
