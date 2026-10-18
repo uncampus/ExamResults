@@ -3832,8 +3832,8 @@ window.RESULTS_DATA = {
     ],
     "students": [
       {
-        "name": "K Mathushanan",
-        "fullName": "Kantheepan Mathushanan",
+        "name": "Mr.K Mathushanan",
+        "fullName": "Mr.Kantheepan Mathushanan",
         "nic": "200700701075",
         "registrationNumber": "TRI/DIP/IT/2026/P/115",
         "marks": [
@@ -3850,13 +3850,13 @@ window.RESULTS_DATA = {
           89,
           "AB"
         ],
-        "final": "N/A",
-        "average": 53.67,
+        "final": "AB",
+        "average": 92,
         "attendance": 63.04
       },
       {
-        "name": "T Tharshika",
-        "fullName": "Tharshika Thavarajah",
+        "name": "Miss.T Tharshika",
+        "fullName": "Miss.Tharshika Thavarajah",
         "nic": "200666501377",
         "registrationNumber": "TRI/DIP/IT/2026/P/118",
         "marks": [
@@ -3873,13 +3873,13 @@ window.RESULTS_DATA = {
           93,
           98
         ],
-        "final": "N/A",
-        "average": 93.25,
+        "final": 90,
+        "average": 93,
         "attendance": 97.83
       },
       {
-        "name": "L Kanushiya",
-        "fullName": "Lavakumar Kanushiya ",
+        "name": "Miss.L Kanushiya",
+        "fullName": "Miss.Lavakumar Kanushiya ",
         "nic": "200654002845",
         "registrationNumber": "TRI/DIP/IT/2026/P/121",
         "marks": [
@@ -3896,19 +3896,19 @@ window.RESULTS_DATA = {
           72,
           98
         ],
-        "final": "N/A",
-        "average": 86.75,
+        "final": 66,
+        "average": 85.15,
         "attendance": 95.65
       },
       {
-        "name": "U Vishaagan",
-        "fullName": "Uthayakumar Vishaagan",
+        "name": "Mr.U Vishaagan",
+        "fullName": "Mr.Uthayakumar Vishaagan",
         "nic": "200915802517",
         "registrationNumber": "TRI02/DIP/IT-EXTN/2026/P/05",
         "marks": [
           81,
           44,
-          33,
+          50,
           70,
           45,
           65,
@@ -3916,16 +3916,16 @@ window.RESULTS_DATA = {
           50,
           50,
           40,
-          28,
+          50,
           55
         ],
-        "final": "N/A",
-        "average": 50.92,
+        "final": 40,
+        "average": 53.08,
         "attendance": 90.7
       },
       {
-        "name": "P Theekshanan",
-        "fullName": "Punniyamoorthy Theekshanan",
+        "name": "Mr.P Theekshanan",
+        "fullName": "Mr.Punniyamoorthy Theekshanan",
         "nic": "200528000272",
         "registrationNumber": "TRI/DIP/IT/2026/P/123",
         "marks": [
@@ -3940,15 +3940,15 @@ window.RESULTS_DATA = {
           65,
           40,
           50,
-          "AB"
+          50
         ],
-        "final": "N/A",
-        "average": 57.33,
+        "final": 56,
+        "average": 61.08,
         "attendance": 69.57
       },
       {
-        "name": "R Sathurshan",
-        "fullName": "Ravichanrdran Sathurshan",
+        "name": "Mr.R Sathurshan",
+        "fullName": "Mr.Ravichanrdran Sathurshan",
         "nic": "200533901090",
         "registrationNumber": "TRI02/DIP/IT/2026/P/66",
         "marks": [
@@ -3956,7 +3956,7 @@ window.RESULTS_DATA = {
           58,
           50,
           72,
-          30,
+          63,
           60,
           "AB",
           "AB",
@@ -3965,13 +3965,13 @@ window.RESULTS_DATA = {
           31,
           "AB"
         ],
-        "final": "N/A",
-        "average": 37.17,
+        "final": "AB",
+        "average": 59.88,
         "attendance": 60.87
       },
       {
-        "name": "Haniya",
-        "fullName": "Abdul Nazar Fathima Haniya",
+        "name": "Miss.A N F Haniya",
+        "fullName": "Miss.Abdul Nazar Fathima Haniya",
         "nic": "200650903303",
         "registrationNumber": "TRI02/DIP/IT/2026/P/72",
         "marks": [
@@ -3979,22 +3979,22 @@ window.RESULTS_DATA = {
           66,
           52,
           70,
-          "AB",
+          44,
           60,
           50,
           50,
           62,
           40,
-          28,
+          47,
           65
         ],
-        "final": "N/A",
-        "average": 51.33,
+        "final": 40,
+        "average": 55.31,
         "attendance": 86.96
       },
       {
-        "name": "G Lakshika",
-        "fullName": "Gowreeswaran Lakshika",
+        "name": "Miss.G Lakshika",
+        "fullName": "Miss.Gowreeswaran Lakshika",
         "nic": "200183301107",
         "registrationNumber": "TRI/DIP/IT/2026/P/126",
         "marks": [
@@ -4011,58 +4011,58 @@ window.RESULTS_DATA = {
           33,
           95
         ],
-        "final": "N/A",
-        "average": 74.25,
+        "final": 47,
+        "average": 72.15,
         "attendance": 95.65
       },
       {
-        "name": "N Kavinitha",
-        "fullName": "Navaneetharasa Kavinitha",
+        "name": "Miss.N Kavinitha",
+        "fullName": "Miss.Navaneetharasa Kavinitha",
         "nic": "200678602754",
         "registrationNumber": "TRI02/DIP/IT/2026/P/68",
         "marks": [
           71,
-          34,
-          32,
+          46,
+          40,
           74,
-          "AB",
+          40,
           75,
           50,
           50,
           66,
           50,
-          "AB",
+          44,
           85
         ],
-        "final": "N/A",
-        "average": 48.92,
+        "final": "AB",
+        "average": 57.58,
         "attendance": 71.74
       },
       {
-        "name": "S Vinushkanth",
-        "fullName": "Suntharalingam Vinuskanth",
+        "name": "Mr.S Vinushkanth",
+        "fullName": "Mr.Suntharalingam Vinuskanth",
         "nic": "200700903770",
         "registrationNumber": "TRI/DIP/IT/2026/P/124",
         "marks": [
           66,
           52,
-          34,
+          40,
           74,
           43,
           60,
-          "AB",
-          "AB",
+          40,
+          45,
           68,
           40,
-          32,
-          "AB"
+          40,
+          50
         ],
-        "final": "N/A",
-        "average": 39.08,
+        "final": 36,
+        "average": 50.31,
         "attendance": 69.57
       },
       {
-        "name": "A Manujah",
+        "name": "Miss.A Manujah",
         "fullName": "",
         "nic": "",
         "registrationNumber": "TRI02/DIP/IT/2026/P/87",
@@ -4073,20 +4073,20 @@ window.RESULTS_DATA = {
           70,
           42,
           70,
-          "AB",
-          "AB",
+          45,
+          48,
           58,
-          "AB",
-          30,
+          50,
+          40,
           85
         ],
-        "final": "N/A",
-        "average": 42.08,
+        "final": 24,
+        "average": 52.46,
         "attendance": 75.56
       },
       {
-        "name": "K Rukshalini",
-        "fullName": "Kuvananthan  Rukshalini",
+        "name": "Miss.K Rukshalini",
+        "fullName": "Miss.Kuvananthan  Rukshalini",
         "nic": "200685100487",
         "registrationNumber": "TRI02/DIP/IT/2026/P/69",
         "marks": [
@@ -4094,8 +4094,8 @@ window.RESULTS_DATA = {
           52,
           64,
           72,
-          "AB",
-          "AB",
+          40,
+          40,
           50,
           50,
           51,
@@ -4103,13 +4103,13 @@ window.RESULTS_DATA = {
           31,
           85
         ],
-        "final": "N/A",
-        "average": 46.92,
+        "final": 32,
+        "average": 51.92,
         "attendance": 78.26
       },
       {
-        "name": "N Dalshika",
-        "fullName": "Nikshan Dalsika",
+        "name": "Miss.N Dalshika",
+        "fullName": "Miss.Nixon Dalsika",
         "nic": "200569502174",
         "registrationNumber": "TRI02/DIP/IT/2025/P/20",
         "marks": [
@@ -4119,20 +4119,20 @@ window.RESULTS_DATA = {
           70,
           11,
           70,
-          "AB",
+          50,
           "AB",
           "AB",
           40,
           "AB",
           80
         ],
-        "final": "N/A",
-        "average": 37.17,
+        "final": "AB",
+        "average": 55.11,
         "attendance": 69.57
       },
       {
-        "name": "F M Fayas",
-        "fullName": "Faspeer Mohamathu Fayas",
+        "name": "Mr.F M Fayas",
+        "fullName": "Mr.Faspeer Mohamathu Fayas",
         "nic": "200700101064",
         "registrationNumber": "TRI/DIP/IT/2026/P/120",
         "marks": [
@@ -4146,16 +4146,16 @@ window.RESULTS_DATA = {
           50,
           70,
           40,
-          "AB",
-          "AB"
+          40,
+          45
         ],
-        "final": "N/A",
-        "average": 46.33,
+        "final": 40,
+        "average": 52.38,
         "attendance": 84.78
       },
       {
-        "name": "S Shivani",
-        "fullName": "Sriskantharajah Shivani",
+        "name": "Miss.S Shivani",
+        "fullName": "Miss.Sriskantharajah Shivani",
         "nic": "200785100400",
         "registrationNumber": "TRI02/DIP/IT/2026/P/73",
         "marks": [
@@ -4163,45 +4163,45 @@ window.RESULTS_DATA = {
           30,
           12,
           60,
-          "AB",
+          29,
           55,
           50,
           50,
           41,
           40,
           16,
-          "AB"
+          40
         ],
-        "final": "N/A",
-        "average": 31.75,
+        "final": "AB",
+        "average": 37.5,
         "attendance": 71.74
       },
       {
-        "name": "S Puvisha",
-        "fullName": "Srithar Puvisha",
+        "name": "Miss.S Puvisha",
+        "fullName": "Miss.Srithar Puvisha",
         "nic": "200660300100",
         "registrationNumber": "TRI02/DIP/IT/2025/P/23",
         "marks": [
           "AB",
           58,
-          "AB",
+          19,
           65,
-          2,
+          4,
           60,
           50,
           50,
-          "AB",
+          34,
           40,
           32,
           80
         ],
-        "final": "N/A",
-        "average": 36.42,
+        "final": "AB",
+        "average": 44.73,
         "attendance": 55.56
       },
       {
-        "name": "K Thanushiya",
-        "fullName": "Kamalahasan Thanushiya",
+        "name": "Miss.K Thanushiya",
+        "fullName": "Miss.Kamalahasan Thanushiya",
         "nic": "200660500020",
         "registrationNumber": "TRI02/DIP/IT/2026/P/96",
         "marks": [
@@ -4218,12 +4218,12 @@ window.RESULTS_DATA = {
           "AB",
           "AB"
         ],
-        "final": "N/A",
-        "average": 13.75,
+        "final": "AB",
+        "average": 82.5,
         "attendance": 34.21
       },
       {
-        "name": "S Kavethan",
+        "name": "Mr.S Kavethan",
         "fullName": "",
         "nic": "",
         "registrationNumber": "TRI/DIP/IT/2026/P/125",
@@ -4241,66 +4241,43 @@ window.RESULTS_DATA = {
           "AB",
           "AB"
         ],
-        "final": "N/A",
-        "average": 18.33,
+        "final": "AB",
+        "average": 73.33,
         "attendance": 47.83
       },
       {
-        "name": "M Athvaithan",
-        "fullName": "",
-        "nic": "",
-        "registrationNumber": "",
-        "marks": [
-          65,
-          40,
-          42,
-          70,
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
-        ],
-        "final": "N/A",
-        "average": 54.25,
-        "attendance": 100
-      },
-      {
-        "name": "P Joylin",
-        "fullName": "",
-        "nic": "",
-        "registrationNumber": "TRI02/CER /IT/2026/P/12",
-        "marks": [
-          "AB",
-          66,
-          48,
-          60,
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
-        ],
-        "final": "N/A",
-        "average": 43.5,
-        "attendance": 65.38
-      },
-      {
-        "name": "S Sarvampika",
-        "fullName": "Sarvampika Shanmugarasa",
+        "name": "Miss.S Sarvampika",
+        "fullName": "Miss.Sarvampika Shanmugarasa",
         "nic": "200574200389",
-        "registrationNumber": "",
+        "registrationNumber": "-",
         "marks": [
           91,
           72,
           73,
           70,
+          90,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 79.2,
+        "attendance": 76.09
+      },
+      {
+        "name": "Miss.S Karnika",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
           "N/A",
           "N/A",
           "N/A",
@@ -4311,8 +4288,54 @@ window.RESULTS_DATA = {
           "N/A"
         ],
         "final": "N/A",
-        "average": 76.5,
-        "attendance": 76.09
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.T Shashvija",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.A Anusha",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
       }
     ]
   },
@@ -4374,8 +4397,8 @@ window.RESULTS_DATA = {
     ],
     "students": [
       {
-        "name": "K Praneeshan",
-        "fullName": "Karthik Praneeshan ",
+        "name": "Mr.K Praneeshan",
+        "fullName": "Mr.Karthik Praneeshan ",
         "nic": "200916104826",
         "registrationNumber": "TRI02/DIP/IT-EXTN/2026/P/07",
         "marks": [
@@ -4392,13 +4415,13 @@ window.RESULTS_DATA = {
           33,
           88
         ],
-        "final": "N/A",
-        "average": 57.17,
+        "final": "AB",
+        "average": 68.6,
         "attendance": 65.12
       },
       {
-        "name": "M Kithusha",
-        "fullName": "Maanikkarasa Kithusha ",
+        "name": "Miss.M Kithusha",
+        "fullName": "Miss.Maanikkarasa Kithusha ",
         "nic": "200654100066",
         "registrationNumber": "TRI02/DIP/IT/2026/P/88",
         "marks": [
@@ -4415,13 +4438,13 @@ window.RESULTS_DATA = {
           "AB",
           80
         ],
-        "final": "N/A",
-        "average": 41.58,
+        "final": "AB",
+        "average": 62.38,
         "attendance": 90.7
       },
       {
-        "name": "S Kirusthika",
-        "fullName": "Kirusthika Santhirakumar",
+        "name": "Miss.S Kirusthika",
+        "fullName": "Miss.Kirusthika Santhirakumar",
         "nic": "200675901629",
         "registrationNumber": "TRI02/DIP/IT/2026/P/80",
         "marks": [
@@ -4429,22 +4452,22 @@ window.RESULTS_DATA = {
           44,
           59,
           70,
-          "AB",
-          "AB",
-          "AB",
-          "AB",
+          49,
+          45,
+          50,
+          55,
           69,
           40,
           63,
-          "AB"
+          60
         ],
-        "final": "N/A",
-        "average": 35.25,
+        "final": 52,
+        "average": 56.46,
         "attendance": 76.74
       },
       {
-        "name": "R Prithika",
-        "fullName": "Prithika Rasasekaram",
+        "name": "Miss.R Prithika",
+        "fullName": "Miss.Prithika Rasasekaram",
         "nic": "200661000397",
         "registrationNumber": "TRI02/DIP/IT/2026/P/74",
         "marks": [
@@ -4454,20 +4477,20 @@ window.RESULTS_DATA = {
           65,
           54,
           50,
-          "AB",
-          "AB",
+          55,
+          55,
           86,
           40,
           75,
           76
         ],
-        "final": "N/A",
-        "average": 53.83,
+        "final": 24,
+        "average": 60,
         "attendance": 81.4
       },
       {
-        "name": "V Libirshan",
-        "fullName": "Vickramasinghe Libirshan",
+        "name": "Mr.V Libirshan",
+        "fullName": "Mr.Vickramasinghe Libirshan",
         "nic": "200526601051",
         "registrationNumber": "TRI02/DIP/IT/2026/P/82",
         "marks": [
@@ -4482,15 +4505,15 @@ window.RESULTS_DATA = {
           81,
           70,
           58,
-          "AB"
+          70
         ],
-        "final": "N/A",
-        "average": 77.25,
+        "final": 74,
+        "average": 82.38,
         "attendance": 81.4
       },
       {
-        "name": "S Shanthuja",
-        "fullName": "Sureshkumar Shanthuja",
+        "name": "Miss.S Shanthuja",
+        "fullName": "Miss.Sureshkumar Shanthuja",
         "nic": "200654803390",
         "registrationNumber": "TRI02/DIP/IT/2026/P/79",
         "marks": [
@@ -4498,22 +4521,22 @@ window.RESULTS_DATA = {
           84,
           61,
           65,
-          "AB",
-          "AB",
-          "AB",
+          88,
+          80,
+          70,
           "AB",
           "AB",
           40,
           64,
           "AB"
         ],
-        "final": "N/A",
-        "average": 31.83,
+        "final": "AB",
+        "average": 68.89,
         "attendance": 76.74
       },
       {
-        "name": "P Jathushika",
-        "fullName": "Jathushika Pushparaja",
+        "name": "Miss.P Jathushika",
+        "fullName": "Miss.Jathushika Pushparaja",
         "nic": "200655603407",
         "registrationNumber": "TRI02/DIP/IT/2026/P/71",
         "marks": [
@@ -4530,13 +4553,13 @@ window.RESULTS_DATA = {
           "AB",
           "AB"
         ],
-        "final": "N/A",
-        "average": 23,
+        "final": "AB",
+        "average": 69,
         "attendance": 67.44
       },
       {
-        "name": "R Jathurshan",
-        "fullName": "Ravichchanthiran Jathurshan",
+        "name": "Mr.R Jathurshan",
+        "fullName": "Mr.Ravichchanthiran Jathurshan",
         "nic": "200910903842",
         "registrationNumber": "TRI02/DIP/IT-EXTN/2026/P/02",
         "marks": [
@@ -4553,59 +4576,59 @@ window.RESULTS_DATA = {
           51,
           85
         ],
-        "final": "N/A",
-        "average": 66.33,
+        "final": 36,
+        "average": 64,
         "attendance": 95.35
       },
       {
-        "name": "M Karchika",
-        "fullName": "Mathiyalahan Karshika",
+        "name": "Miss.M Karchika",
+        "fullName": "Miss.Mathiyalahan Karshika",
         "nic": "200654001563",
         "registrationNumber": "TRI02/DIP/IT/2026/P/83",
         "marks": [
           54,
-          "AB",
-          37,
+          68,
+          53,
           60,
-          "AB",
-          "AB",
-          "AB",
-          "AB",
-          32,
+          40,
+          45,
+          50,
+          50,
+          64,
           40,
           53,
-          "AB"
+          55
         ],
-        "final": "N/A",
-        "average": 23,
+        "final": 42,
+        "average": 51.85,
         "attendance": 76.74
       },
       {
-        "name": "S Abinaya",
-        "fullName": "Supenthiran Abinaya",
+        "name": "Miss.S Abinaya",
+        "fullName": "Miss.Supenthiran Abinaya",
         "nic": "200655200023",
         "registrationNumber": "TRI02/DIP/IT/2026/P/77",
         "marks": [
           71,
-          28,
-          29,
+          74,
+          50,
           70,
           51,
           50,
           70,
           73,
-          32,
+          71,
           40,
           57,
           76
         ],
-        "final": "N/A",
-        "average": 53.92,
+        "final": 7,
+        "average": 58.46,
         "attendance": 100
       },
       {
-        "name": "T Paviththira",
-        "fullName": "Thavathasan Paviththira",
+        "name": "Miss.T Paviththira",
+        "fullName": "Miss.Thavathasan Paviththira",
         "nic": "200676601813",
         "registrationNumber": "TRI02/DIP/IT/2026/P/81",
         "marks": [
@@ -4622,13 +4645,13 @@ window.RESULTS_DATA = {
           54,
           85
         ],
-        "final": "N/A",
-        "average": 60.5,
+        "final": 28,
+        "average": 58,
         "attendance": 100
       },
       {
-        "name": "S Y Stany Thivya Anjali",
-        "fullName": "Stanley Yogaraj Stany Thivya Anjaly ",
+        "name": "Miss.S Y Stany Thivya Anjali",
+        "fullName": "Miss.Stanley Yogaraj Stany Thivya Anjaly ",
         "nic": "200661500750",
         "registrationNumber": "TRI02/DIP/IT/2026/P/84",
         "marks": [
@@ -4645,13 +4668,13 @@ window.RESULTS_DATA = {
           66,
           85
         ],
-        "final": "N/A",
-        "average": 69.25,
+        "final": 45,
+        "average": 67.38,
         "attendance": 100
       },
       {
-        "name": "K Dilojan",
-        "fullName": "Kopal Dilojan",
+        "name": "Mr.K Dilojan",
+        "fullName": "Mr.Kopal Dilojan",
         "nic": "200700503174",
         "registrationNumber": "TRI02/DIP/IT/2026/P/75",
         "marks": [
@@ -4668,18 +4691,18 @@ window.RESULTS_DATA = {
           67,
           85
         ],
-        "final": "N/A",
-        "average": 67.5,
+        "final": 40,
+        "average": 65.38,
         "attendance": 95.35
       },
       {
-        "name": "S Sarvin John",
-        "fullName": "Sasikumar Sarvin  John",
+        "name": "Mr.S Sarvin John",
+        "fullName": "Mr.Sasikumar Sarvin  John",
         "nic": "201002204122",
         "registrationNumber": "TRI02/DIP/IT-EXTN/2026/P/04",
         "marks": [
           80,
-          "AB",
+          82,
           55,
           80,
           66,
@@ -4691,13 +4714,13 @@ window.RESULTS_DATA = {
           58,
           74
         ],
-        "final": "N/A",
-        "average": 69.5,
+        "final": 66,
+        "average": 75.54,
         "attendance": 93.02
       },
       {
-        "name": "B Christy",
-        "fullName": "Buvanenthiran Christy Shanth",
+        "name": "Mr.B Christy",
+        "fullName": "Mr.Buvanenthiran Christy Shanth",
         "nic": "200908304695",
         "registrationNumber": "TRI02/DIP/IT-EXTN/2026/P/03",
         "marks": [
@@ -4708,28 +4731,28 @@ window.RESULTS_DATA = {
           2,
           50,
           "AB",
-          "AB",
+          60,
           62,
           50,
           41,
           "N/A"
         ],
-        "final": "N/A",
-        "average": 38.67,
+        "final": "AB",
+        "average": 52.4,
         "attendance": 95.35
       },
       {
-        "name": "K Kavippiriya",
-        "fullName": "Kathirkamaththampi Kavippiriya ",
+        "name": "Miss.K Kavippiriya",
+        "fullName": "Miss.Kathirkamaththampi Kavippiriya ",
         "nic": "200972902685",
         "registrationNumber": "TRI02/DIP/IT-EXTN/2026/P/01",
         "marks": [
-          "AB",
+          45,
           46,
           25,
           65,
           56,
-          "AB",
+          40,
           60,
           "N/A",
           77,
@@ -4737,20 +4760,20 @@ window.RESULTS_DATA = {
           50,
           78
         ],
-        "final": "N/A",
-        "average": 41.42,
+        "final": 18,
+        "average": 50,
         "attendance": 60.47
       },
       {
-        "name": "A Pirashalini",
-        "fullName": "Alagenthirarasa Pirashalini",
-        "nic": "200968702670",
-        "registrationNumber": "TRI02/CER /IT/2026/P/05",
+        "name": "Mr.J Rishikesh",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "UNC-DIITB13-017",
         "marks": [
-          74,
-          46,
-          15,
-          60,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
           "N/A",
           "N/A",
           "N/A",
@@ -4761,19 +4784,19 @@ window.RESULTS_DATA = {
           "N/A"
         ],
         "final": "N/A",
-        "average": 48.75,
-        "attendance": 96.55
+        "average": "N/A",
+        "attendance": "N/A"
       },
       {
-        "name": "Zaghma Mahuthoom",
-        "fullName": "Zaghma Mahuthoom",
-        "nic": "200983000100",
-        "registrationNumber": "TRI/DIP/IT/2026/P/132",
+        "name": "Miss.J Thanusha",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "UNC-DIITB13-018",
         "marks": [
-          "AB",
-          100,
-          28,
-          60,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
           "N/A",
           "N/A",
           "N/A",
@@ -4784,77 +4807,8 @@ window.RESULTS_DATA = {
           "N/A"
         ],
         "final": "N/A",
-        "average": 47,
-        "attendance": 91.67
-      },
-      {
-        "name": "R Umashaki",
-        "fullName": "Umashaki Ramesh ",
-        "nic": "200970003454",
-        "registrationNumber": "TRI/CI/MSO/2026/P/08",
-        "marks": [
-          68,
-          100,
-          27,
-          60,
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
-        ],
-        "final": "N/A",
-        "average": 63.75,
-        "attendance": 100
-      },
-      {
-        "name": "Kirushna",
-        "fullName": "Sasikumar Kirushna",
-        "nic": "200914702789",
-        "registrationNumber": "",
-        "marks": [
-          "AB",
-          30,
-          27,
-          50,
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
-        ],
-        "final": "N/A",
-        "average": 26.75,
-        "attendance": 89.66
-      },
-      {
-        "name": "Akshaya",
-        "fullName": "Arunothayan Akshaya",
-        "nic": "200958101197",
-        "registrationNumber": "TRI02/CER /IT/2026/P/11",
-        "marks": [
-          "AB",
-          "N/A",
-          45,
-          60,
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
-        ],
-        "final": "N/A",
-        "average": 26.25,
-        "attendance": 58.62
+        "average": "N/A",
+        "attendance": "N/A"
       }
     ]
   },
