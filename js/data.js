@@ -5470,6 +5470,410 @@ window.RESULTS_DATA = {
     ]
   },
 
+  //DIIT B15
+  "DIIT-B15": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B15",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Computational Mathematics & Logic"
+      },
+      {
+        "code": "M06",
+        "name": "Programming with Python"
+      },
+      {
+        "code": "M07",
+        "name": "Database & SQL"
+      },
+      {
+        "code": "M08",
+        "name": "Graphics with Photoshop"
+      },
+      {
+        "code": "M09",
+        "name": "Internet, Emails, and AI"
+      },
+      {
+        "code": "M10",
+        "name": "Static Web Pages (HTML/CSS)"
+      },
+      {
+        "code": "M11",
+        "name": "Prog. Techniques & System"
+      },
+      {
+        "code": "M12",
+        "name": "Desktop Dev with C#.Net"
+      }
+    ],
+    "students": [
+      {
+        "name": "Mr.R Uthes",
+        "fullName": "Mr.Ravichandran Uthes",
+        "nic": "200609300967",
+        "registrationNumber": "-",
+        "marks": [
+          93,
+          100,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 96.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.I Sheshan",
+        "fullName": "Mr.Ithayaranjith Jacinth Nigal Sheshan",
+        "nic": "200133203823",
+        "registrationNumber": "-",
+        "marks": [
+          91,
+          96,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 93.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.M N A Rashad",
+        "fullName": "Mr.Niyas Ahamed Rashad",
+        "nic": "200408011608",
+        "registrationNumber": "-",
+        "marks": [
+          88,
+          68,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.J Kavinsan",
+        "fullName": "Mr.Jepalan Kavinsan",
+        "nic": "200912304489",
+        "registrationNumber": "-",
+        "marks": [
+          88,
+          84,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 86,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.T Pranavi",
+        "fullName": "Miss.Theivendhirarasa Pranavi",
+        "nic": "200768203699",
+        "registrationNumber": "-",
+        "marks": [
+          87,
+          80,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 83.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.R Saranya",
+        "fullName": "Miss.Ravi Saranya",
+        "nic": "200458210392",
+        "registrationNumber": "-",
+        "marks": [
+          86,
+          92,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.M Pathurshan",
+        "fullName": "Mr.Mokanraj Pathurshan",
+        "nic": "200635102392",
+        "registrationNumber": "-",
+        "marks": [
+          86,
+          94,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 90,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.Rukshika",
+        "fullName": "Miss.Rukshika Carmalin Theophilus",
+        "nic": "200569801654",
+        "registrationNumber": "-",
+        "marks": [
+          84,
+          "AB",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 84,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.R Ramya",
+        "fullName": "Miss.Ramya Rajanikanth",
+        "nic": "200768903778",
+        "registrationNumber": "-",
+        "marks": [
+          79,
+          90,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 84.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.A Danuska",
+        "fullName": "Miss.Anpalakan Danuska",
+        "nic": "200885502984",
+        "registrationNumber": "-",
+        "marks": [
+          76,
+          66,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 71,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.M J M Nawfee",
+        "fullName": "Mr.Muhammed Jiffry Muhammed Nawfee",
+        "nic": "200835804047",
+        "registrationNumber": "-",
+        "marks": [
+          65,
+          52,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 58.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.V Sangeeth",
+        "fullName": "Mr.Veerakuddy Sangeeth",
+        "nic": "200612300250",
+        "registrationNumber": "-",
+        "marks": [
+          58,
+          88,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 73,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.J Logakshayan",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "-",
+        "marks": [
+          48,
+          "AB",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 48,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.V Thanusek",
+        "fullName": "Mr.Vijetharan Croos Thanusek",
+        "nic": "200710700331",
+        "registrationNumber": "-",
+        "marks": [
+          43,
+          86,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 64.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.A Thebora",
+        "fullName": "Miss.Antony Regnold Thebora",
+        "nic": "200750701987",
+        "registrationNumber": "-",
+        "marks": [
+          26,
+          88,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": 57,
+        "attendance": "N/A"
+      }
+    ]
+  },
+  
   //Diploma in Englis Batches
   //DIE B01
   "DIE-B01": {
