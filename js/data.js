@@ -6725,8 +6725,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 13.08,
@@ -6748,8 +6747,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 11.58,
@@ -6771,8 +6769,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 9.58,
@@ -6794,8 +6791,7 @@ window.RESULTS_DATA = {
           64,
           "AB",
           20,
-          87,
-          ""
+          87
         ],
         "final": 50,
         "average": 33.75,
@@ -6817,8 +6813,7 @@ window.RESULTS_DATA = {
           91,
           55,
           45,
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": 70,
         "average": 47.58,
@@ -6840,8 +6835,7 @@ window.RESULTS_DATA = {
           67,
           54,
           30,
-          84,
-          ""
+          84
         ],
         "final": 50,
         "average": 43.75,
@@ -6863,8 +6857,7 @@ window.RESULTS_DATA = {
           62,
           44,
           30,
-          82,
-          ""
+          82
         ],
         "final": "AB",
         "average": 37.33,
@@ -6886,8 +6879,7 @@ window.RESULTS_DATA = {
           52,
           37,
           20,
-          84,
-          ""
+          84
         ],
         "final": "AB",
         "average": 35.17,
@@ -6909,8 +6901,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 0,
@@ -6932,8 +6923,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 0,
@@ -6955,8 +6945,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 12.58,
@@ -6978,8 +6967,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 11.25,
@@ -7001,8 +6989,7 @@ window.RESULTS_DATA = {
           71,
           53,
           20,
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": 52,
         "average": 41.92,
@@ -7024,8 +7011,7 @@ window.RESULTS_DATA = {
           "AB",
           31,
           "AB",
-          77,
-          ""
+          77
         ],
         "final": 54,
         "average": 40.17,
@@ -7047,8 +7033,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 0,
@@ -7070,8 +7055,7 @@ window.RESULTS_DATA = {
           84,
           57,
           30,
-          86,
-          ""
+          86
         ],
         "final": 57,
         "average": 77.42,
@@ -7093,8 +7077,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 22.75,
@@ -7116,8 +7099,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           30,
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": 20,
         "average": 30.67,
@@ -7139,8 +7121,7 @@ window.RESULTS_DATA = {
           59,
           34,
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 31.33,
@@ -7162,8 +7143,7 @@ window.RESULTS_DATA = {
           48,
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 21.5,
@@ -7185,8 +7165,7 @@ window.RESULTS_DATA = {
           77,
           46,
           40,
-          87,
-          ""
+          87
         ],
         "final": 60,
         "average": 60.5,
@@ -7208,8 +7187,7 @@ window.RESULTS_DATA = {
           70,
           59,
           60,
-          85,
-          ""
+          85
         ],
         "final": 61,
         "average": 59.42,
@@ -7231,8 +7209,7 @@ window.RESULTS_DATA = {
           66,
           53,
           35,
-          86,
-          ""
+          86
         ],
         "final": 60,
         "average": 58.92,
@@ -7254,8 +7231,7 @@ window.RESULTS_DATA = {
           46,
           45,
           5,
-          44,
-          ""
+          44
         ],
         "final": 36,
         "average": 27.75,
@@ -7277,8 +7253,7 @@ window.RESULTS_DATA = {
           52,
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 14.58,
@@ -7300,8 +7275,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 12.83,
@@ -7323,8 +7297,7 @@ window.RESULTS_DATA = {
           55,
           "AB",
           "AB",
-          82,
-          ""
+          82
         ],
         "final": 52,
         "average": 38.33,
@@ -7346,8 +7319,7 @@ window.RESULTS_DATA = {
           22,
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 17.08,
@@ -7369,8 +7341,7 @@ window.RESULTS_DATA = {
           "N/A",
           "N/A",
           "N/A",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "N/A",
         "average": 3.17,
