@@ -6632,5 +6632,750 @@ window.RESULTS_DATA = {
         "attendance": "N/A"
       }
     ]
+  },
+
+  //DIE B07
+  "DIE-B07": {
+    "course": "Diploma in English",
+    "batch": "DIE - B07",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Parts of Speech"
+      },
+      {
+        "code": "M02",
+        "name": "Tenses"
+      },
+      {
+        "code": "M03",
+        "name": "Classified Vocabulary"
+      },
+      {
+        "code": "M04",
+        "name": "Practical Classroom Spoken English Activities"
+      },
+      {
+        "code": "M05",
+        "name": "Presentation Skills"
+      },
+      {
+        "code": "M06",
+        "name": "Active and Passive Voices"
+      },
+      {
+        "code": "M07",
+        "name": "Modal Verbs"
+      },
+      {
+        "code": "M08",
+        "name": "Telephone Conversation"
+      },
+      {
+        "code": "M09",
+        "name": "Reading and Comprehension"
+      },
+      {
+        "code": "M10",
+        "name": "Listening Activities"
+      },
+      {
+        "code": "M11",
+        "name": "Writing"
+      }
+    ],
+    "students": [
+      {
+        "name": "C.Preethy",
+        "fullName": "Chantravarman Preethy",
+        "nic": "200760100647",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/10",
+        "marks": [
+          36,
+          18,
+          71,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 10.42,
+        "attendance": "N/A"
+      },
+      {
+        "name": "C.Kirusdika",
+        "fullName": "Chandramohan Kirusdika",
+        "nic": "200677700809",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/15",
+        "marks": [
+          "AB",
+          29,
+          55,
+          73,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 13.08,
+        "attendance": "N/A"
+      },
+      {
+        "name": "J.Mathumika",
+        "fullName": "Jeyasilan Mathumika",
+        "nic": "200670900670",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/16",
+        "marks": [
+          "AB",
+          "AB",
+          57,
+          82,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 11.58,
+        "attendance": "N/A"
+      },
+      {
+        "name": "A.Anushkar",
+        "fullName": "Arunagiri Anushkar",
+        "nic": "200713602138",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/18",
+        "marks": [
+          "AB",
+          37,
+          78,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 9.58,
+        "attendance": "N/A"
+      },
+      {
+        "name": "V.Thusmitha",
+        "fullName": "Thusmitha Vigneswaran",
+        "nic": "200671603562",
+        "registrationNumber": "TRI/DIP/EN/2025/P/37",
+        "marks": [
+          28,
+          "AB",
+          72,
+          "AB",
+          "AB",
+          24,
+          60,
+          64,
+          "AB",
+          20,
+          87,
+          ""
+        ],
+        "final": 50,
+        "average": 33.75,
+        "attendance": "N/A"
+      },
+      {
+        "name": "P.Harshika",
+        "fullName": "Harishika Prashanthan ",
+        "nic": "200678900138",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/38",
+        "marks": [
+          57,
+          42,
+          83,
+          "AB",
+          "AB",
+          54,
+          74,
+          91,
+          55,
+          45,
+          "N/A",
+          ""
+        ],
+        "final": 70,
+        "average": 47.58,
+        "attendance": "N/A"
+      },
+      {
+        "name": "N.Subashini",
+        "fullName": "Subashini  Namnathan",
+        "nic": "200483104436",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/39",
+        "marks": [
+          36,
+          44,
+          78,
+          "AB",
+          "AB",
+          22,
+          60,
+          67,
+          54,
+          30,
+          84,
+          ""
+        ],
+        "final": 50,
+        "average": 43.75,
+        "attendance": "N/A"
+      },
+      {
+        "name": "V.Shanojika",
+        "fullName": "Varathan Shanojiga",
+        "nic": "200668603188",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/46",
+        "marks": [
+          43,
+          31,
+          80,
+          "AB",
+          "AB",
+          16,
+          60,
+          62,
+          44,
+          30,
+          82,
+          ""
+        ],
+        "final": "AB",
+        "average": 37.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "S.Jananthini",
+        "fullName": "Sinthan Jananthini ",
+        "nic": "200658503154",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/45",
+        "marks": [
+          35,
+          32,
+          76,
+          "AB",
+          "AB",
+          14,
+          72,
+          52,
+          37,
+          20,
+          84,
+          ""
+        ],
+        "final": "AB",
+        "average": 35.17,
+        "attendance": "N/A"
+      },
+      {
+        "name": "M.Rifky",
+        "fullName": "Sathaath Mohamed Rifky",
+        "nic": "200509001101",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/50",
+        "marks": [
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 0,
+        "attendance": "N/A"
+      },
+      {
+        "name": "R.Sathurshan",
+        "fullName": "Ravichandran Sathurshan",
+        "nic": "200533901090",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/49",
+        "marks": [
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 0,
+        "attendance": "N/A"
+      },
+      {
+        "name": "S.M.Shafnan",
+        "fullName": "Sirajudeen Mohamed Shafnan",
+        "nic": "200805802957",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/12",
+        "marks": [
+          29,
+          63,
+          59,
+          0,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 12.58,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Y.Ganishagar",
+        "fullName": "Yogaruban Ganishagar",
+        "nic": "200811800160",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/13",
+        "marks": [
+          54,
+          81,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 11.25,
+        "attendance": "N/A"
+      },
+      {
+        "name": "M.Kulodshanan",
+        "fullName": "Manobavananthan Kulodshanan",
+        "nic": "200806500260",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/14",
+        "marks": [
+          53,
+          52,
+          76,
+          71,
+          "AB",
+          14,
+          41,
+          71,
+          53,
+          20,
+          "N/A",
+          ""
+        ],
+        "final": 52,
+        "average": 41.92,
+        "attendance": "N/A"
+      },
+      {
+        "name": "R.Ranistan",
+        "fullName": "Roystan Milroy Ranistan Elroy",
+        "nic": "200510801620",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/49",
+        "marks": [
+          56,
+          61,
+          71,
+          88,
+          "AB",
+          "AB",
+          44,
+          "AB",
+          31,
+          "AB",
+          77,
+          ""
+        ],
+        "final": 54,
+        "average": 40.17,
+        "attendance": "N/A"
+      },
+      {
+        "name": "C.Maroozha",
+        "fullName": "Conseeus Maroozha",
+        "nic": "200561001050",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/47",
+        "marks": [
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 0,
+        "attendance": "N/A"
+      },
+      {
+        "name": "T.Akshana",
+        "fullName": "Akshana Thirulogasanthar ",
+        "nic": "200463000349",
+        "registrationNumber": "TRI/DIP/EN/2026/P/80",
+        "marks": [
+          75,
+          88,
+          77,
+          91,
+          96,
+          98,
+          90,
+          84,
+          57,
+          30,
+          86,
+          ""
+        ],
+        "final": 57,
+        "average": 77.42,
+        "attendance": "N/A"
+      },
+      {
+        "name": "D.Jaanusha",
+        "fullName": "Jaanusha Devid Balendran",
+        "nic": "200575802567",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/52",
+        "marks": [
+          46,
+          "AB",
+          80,
+          "AB",
+          97,
+          50,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 22.75,
+        "attendance": "N/A"
+      },
+      {
+        "name": "R.Kuganitha",
+        "fullName": "Rajikumar kukanitha ",
+        "nic": "200677703158",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/52",
+        "marks": [
+          67,
+          56,
+          "AB",
+          84,
+          "AB",
+          44,
+          67,
+          "AB",
+          "AB",
+          30,
+          "N/A",
+          ""
+        ],
+        "final": 20,
+        "average": 30.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "P.Tiyonis",
+        "fullName": "Pannir Selvam Tiyonis",
+        "nic": "200619500490",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/44",
+        "marks": [
+          40,
+          "AB",
+          79,
+          "AB",
+          67,
+          36,
+          61,
+          59,
+          34,
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 31.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "T.Shasviya",
+        "fullName": "Kingsley Thanapal Shasviya",
+        "nic": "200777100359",
+        "registrationNumber": "TR102/DIP/EN/2026/P/61",
+        "marks": [
+          54,
+          71,
+          "AB",
+          85,
+          "AB",
+          "AB",
+          "AB",
+          48,
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 21.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "B.Miloshi",
+        "fullName": "Benedict Miloshi Barthelot",
+        "nic": "200752201172",
+        "registrationNumber": "TR102/DIP/EN/2026/P/64",
+        "marks": [
+          58,
+          50,
+          84,
+          87,
+          "AB",
+          60,
+          77,
+          77,
+          46,
+          40,
+          87,
+          ""
+        ],
+        "final": 60,
+        "average": 60.5,
+        "attendance": "N/A"
+      },
+      {
+        "name": "F.Rikkash",
+        "fullName": "Faizool Mohamed Rikkas",
+        "nic": "991753443v",
+        "registrationNumber": "UNC-DIEB07-023",
+        "marks": [
+          72,
+          70,
+          "AB",
+          88,
+          "AB",
+          78,
+          70,
+          70,
+          59,
+          60,
+          85,
+          ""
+        ],
+        "final": 61,
+        "average": 59.42,
+        "attendance": "N/A"
+      },
+      {
+        "name": "M.Harishan",
+        "fullName": "Manojkumar Harishan",
+        "nic": "200417200544",
+        "registrationNumber": "TRI02/DIP/EN/2025/P/11",
+        "marks": [
+          60,
+          74,
+          89,
+          78,
+          "AB",
+          44,
+          62,
+          66,
+          53,
+          35,
+          86,
+          ""
+        ],
+        "final": 60,
+        "average": 58.92,
+        "attendance": "N/A"
+      },
+      {
+        "name": "S.F.Rifna",
+        "fullName": "Simardeen Fathima Rifna",
+        "nic": "200058404393",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/60",
+        "marks": [
+          28,
+          "AB",
+          74,
+          "AB",
+          "AB",
+          24,
+          31,
+          46,
+          45,
+          5,
+          44,
+          ""
+        ],
+        "final": 36,
+        "average": 27.75,
+        "attendance": "N/A"
+      },
+      {
+        "name": "S.Karnika",
+        "fullName": "Srikaran Karnika",
+        "nic": "200784800365",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/69",
+        "marks": [
+          54,
+          "AB",
+          "AB",
+          69,
+          "AB",
+          "AB",
+          "AB",
+          52,
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 14.58,
+        "attendance": "N/A"
+      },
+      {
+        "name": "A.Dinoshika",
+        "fullName": "Arichanthiran Dinoshika",
+        "nic": "200757200306",
+        "registrationNumber": "UNC-DIEB07-027",
+        "marks": [
+          43,
+          36,
+          "AB",
+          75,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 12.83,
+        "attendance": "N/A"
+      },
+      {
+        "name": "K.Dilojan",
+        "fullName": "Kopal Dilojan",
+        "nic": "200700503174",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/80",
+        "marks": [
+          "AB",
+          74,
+          "AB",
+          86,
+          "AB",
+          52,
+          59,
+          55,
+          "AB",
+          "AB",
+          82,
+          ""
+        ],
+        "final": 52,
+        "average": 38.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "A.M.Hussain",
+        "fullName": "Alabdeen Muhammad Hussain",
+        "nic": "200726200734",
+        "registrationNumber": "UNC-DIEB07-029",
+        "marks": [
+          "AB",
+          36,
+          "AB",
+          74,
+          54,
+          0,
+          19,
+          22,
+          "AB",
+          "AB",
+          "N/A",
+          ""
+        ],
+        "final": "AB",
+        "average": 17.08,
+        "attendance": "N/A"
+      },
+      {
+        "name": "V.Sambavi",
+        "fullName": "Yathukulan Sambavi",
+        "nic": "",
+        "registrationNumber": "TRI/DIP/EN/2026/P/12",
+        "marks": [
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          38,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          ""
+        ],
+        "final": "N/A",
+        "average": 3.17,
+        "attendance": "N/A"
+      }
+    ]
   }
 };
