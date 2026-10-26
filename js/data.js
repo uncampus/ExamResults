@@ -6702,8 +6702,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "N/A",
-          ""
+          "N/A"
         ],
         "final": "AB",
         "average": 10.42,
