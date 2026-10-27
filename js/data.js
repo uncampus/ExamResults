@@ -6222,6 +6222,479 @@ window.RESULTS_DATA = {
     ]
   },
 
+  //DIIT B16
+  "DIIT-B16": {
+    "course": "Diploma in IT",
+    "batch": "DIIT - B16",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Fundamentals of Computer"
+      },
+      {
+        "code": "M02",
+        "name": "Operating System"
+      },
+      {
+        "code": "M03",
+        "name": "Computer Hardware & Network"
+      },
+      {
+        "code": "M04",
+        "name": "MS OFFICE"
+      },
+      {
+        "code": "M05",
+        "name": "Computational Mathematics & Logic"
+      },
+      {
+        "code": "M06",
+        "name": "Programming with Python"
+      },
+      {
+        "code": "M07",
+        "name": "Database & SQL"
+      },
+      {
+        "code": "M08",
+        "name": "Graphics with Photoshop"
+      },
+      {
+        "code": "M09",
+        "name": "Internet, Emails, and AI"
+      },
+      {
+        "code": "M10",
+        "name": "Static Web Pages (HTML/CSS)"
+      },
+      {
+        "code": "M11",
+        "name": "Prog. Techniques & System"
+      },
+      {
+        "code": "M12",
+        "name": "Desktop Dev with C#.Net"
+      }
+    ],
+    "students": [
+      {
+        "name": "Miss.U Seneka",
+        "fullName": "Miss.Umashankar Seneka",
+        "nic": "200779701349",
+        "registrationNumber": "N/A",
+        "marks": [
+          100,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Harishnave",
+        "fullName": "Miss.Sutharsan Harishnave",
+        "nic": "200780601028",
+        "registrationNumber": "N/A",
+        "marks": [
+          88,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Shasvini",
+        "fullName": "Miss.Santhakumar Shasvini",
+        "nic": "200759401540",
+        "registrationNumber": "N/A",
+        "marks": [
+          70,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.P Shiyani",
+        "fullName": "Miss.Pathinathan Shiyani",
+        "nic": "200851300876",
+        "registrationNumber": "N/A",
+        "marks": [
+          60,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.S Kiruthika",
+        "fullName": "Miss.Satheeskumar Kiruthika",
+        "nic": "200765701088",
+        "registrationNumber": "N/A",
+        "marks": [
+          71,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.E Suvarnika",
+        "fullName": "Miss.Ehambaram Suvarnika",
+        "nic": "200782500645",
+        "registrationNumber": "N/A",
+        "marks": [
+          94,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.T Dilani",
+        "fullName": "Miss.Theepan Dilani",
+        "nic": "200781303746",
+        "registrationNumber": "N/A",
+        "marks": [
+          91,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.N Niyuska",
+        "fullName": "Miss.Nishakanthan Niyuska",
+        "nic": "200778301911",
+        "registrationNumber": "N/A",
+        "marks": [
+          34,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Athishaya",
+        "fullName": "Miss.Athishaya Kaneshapillai",
+        "nic": "200753601705",
+        "registrationNumber": "N/A",
+        "marks": [
+          71,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.J Abishalini",
+        "fullName": "Miss.Jeevakanthan Abishalini",
+        "nic": "200664803695",
+        "registrationNumber": "N/A",
+        "marks": [
+          60,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Manoshalini",
+        "fullName": "Miss.Kidnathas Manoshalini",
+        "nic": "200764501112",
+        "registrationNumber": "N/A",
+        "marks": [
+          87,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.V Kajenthini",
+        "fullName": "Miss.Kajenthini Vijenthiran",
+        "nic": "200768502109",
+        "registrationNumber": "N/A",
+        "marks": [
+          71,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.M Lilakshan",
+        "fullName": "Mr.Mahenthiran Lilakshan",
+        "nic": "200727311989",
+        "registrationNumber": "N/A",
+        "marks": [
+          58,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.S Thanukshan",
+        "fullName": "Mr.Srikanth Thanukshan",
+        "nic": "200731402275",
+        "registrationNumber": "N/A",
+        "marks": [
+          65,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.M Lekka",
+        "fullName": "Miss.Mohan Lekka",
+        "nic": "200780102434",
+        "registrationNumber": "N/A",
+        "marks": [
+          43,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Mr.R Diloksan",
+        "fullName": "Mr.Ramanathan Diloksan",
+        "nic": "200604400650",
+        "registrationNumber": "N/A",
+        "marks": [
+          78,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.V V Veloniya",
+        "fullName": "Miss.Victor Vidyanandhan Veloniya",
+        "nic": "200780405189",
+        "registrationNumber": "N/A",
+        "marks": [
+          96,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      },
+      {
+        "name": "Miss.K Varunika",
+        "fullName": "",
+        "nic": "",
+        "registrationNumber": "N/A",
+        "marks": [
+          81,
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A",
+          "N/A"
+        ],
+        "final": "N/A",
+        "average": "N/A",
+        "attendance": "N/A"
+      }
+    ]
+  },
+
   //DIE B03 & B04
   "DIE-B03 & B04": {
     "course": "Diploma in English",
