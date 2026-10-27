@@ -6671,8 +6671,8 @@ window.RESULTS_DATA = {
       },
       {
         "name": "Miss.K Varunika",
-        "fullName": "",
-        "nic": "",
+        "fullName": "Miss.Karunakaran Varunika",
+        "nic": "200780300203",
         "registrationNumber": "N/A",
         "marks": [
           81,
