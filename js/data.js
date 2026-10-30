@@ -4120,8 +4120,8 @@ window.RESULTS_DATA = {
           11,
           70,
           50,
-          "AB",
-          "AB",
+          50,
+          64,
           40,
           "AB",
           80
@@ -4524,11 +4524,11 @@ window.RESULTS_DATA = {
           88,
           80,
           70,
-          "AB",
-          "AB",
+          70,
+          88,
           40,
           64,
-          "AB"
+          70
         ],
         "final": "AB",
         "average": 68.89,
@@ -4882,14 +4882,14 @@ window.RESULTS_DATA = {
           90,
           95,
           100,
+          95,
+          86,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          85
         ],
         "final": "N/A",
-        "average": 96.86,
+        "average": 94.40,
         "attendance": 0
       },
       {
@@ -4905,14 +4905,14 @@ window.RESULTS_DATA = {
           100,
           98,
           100,
+          95,
+          94,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          85
         ],
         "final": "N/A",
-        "average": 98.14,
+        "average": 96.10,
         "attendance": 0
       },
       {
@@ -4928,14 +4928,14 @@ window.RESULTS_DATA = {
           51,
           70,
           70,
+          55,
+          64,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          65
         ],
         "final": "N/A",
-        "average": 71.86,
+        "average": 68.70,
         "attendance": 0
       },
       {
@@ -4951,14 +4951,14 @@ window.RESULTS_DATA = {
           42,
           40,
           "AB",
+          50,
+          78,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          50
         ],
         "final": "N/A",
-        "average": 65,
+        "average": 63.11,
         "attendance": 0
       },
       {
@@ -4974,14 +4974,14 @@ window.RESULTS_DATA = {
           "AB",
           68,
           60,
+          50,
+          70,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "final": "N/A",
-        "average": 63,
+        "average": 62.14,
         "attendance": 0
       },
       {
@@ -4997,14 +4997,14 @@ window.RESULTS_DATA = {
           40,
           75,
           70,
+          70,
+          65,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          60
         ],
         "final": "N/A",
-        "average": 66,
+        "average": 65.70,
         "attendance": 0
       },
       {
@@ -5020,14 +5020,14 @@ window.RESULTS_DATA = {
           28,
           60,
           65,
+          70,
+          69,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "final": "N/A",
-        "average": 57.57,
+        "average": 60.22,
         "attendance": 0
       },
       {
@@ -5043,14 +5043,14 @@ window.RESULTS_DATA = {
           50,
           75,
           75,
+          80,
+          68,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          80
         ],
         "final": "N/A",
-        "average": 73,
+        "average": 73.90,
         "attendance": 0
       },
       {
@@ -5066,14 +5066,14 @@ window.RESULTS_DATA = {
           "AB",
           70,
           75,
+          75,
+          72,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          75
         ],
         "final": "N/A",
-        "average": 70.17,
+        "average": 71.44,
         "attendance": 0
       },
       {
@@ -5089,11 +5089,11 @@ window.RESULTS_DATA = {
           "AB",
           70,
           50,
+          60,
+          48,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "final": "N/A",
         "average": 66.5,
@@ -5112,14 +5112,14 @@ window.RESULTS_DATA = {
           74,
           74,
           75,
+          75,
+          78,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          80
         ],
         "final": "N/A",
-        "average": 72.71,
+        "average": 74.20,
         "attendance": 0
       },
       {
@@ -5135,14 +5135,14 @@ window.RESULTS_DATA = {
           41,
           68,
           50,
+          55,
+          50,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "final": "N/A",
-        "average": 50.29,
+        "average": 50.78,
         "attendance": 0
       },
       {
@@ -5158,14 +5158,14 @@ window.RESULTS_DATA = {
           55,
           72,
           70,
+          75,
+          60,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          70
         ],
         "final": "N/A",
-        "average": 70.8,
+        "average": 69.88,
         "attendance": 0
       },
       {
@@ -5181,14 +5181,14 @@ window.RESULTS_DATA = {
           38,
           "AB",
           65,
+          "AB",
+          "AB",
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          70
         ],
         "final": "N/A",
-        "average": 59.2,
+        "average": 61.00,
         "attendance": 0
       },
       {
@@ -5204,14 +5204,14 @@ window.RESULTS_DATA = {
           "AB",
           75,
           65,
+          70,
+          28,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          70
         ],
         "final": "N/A",
-        "average": 57.4,
+        "average": 56.88,
         "attendance": 0
       },
       {
@@ -5227,14 +5227,14 @@ window.RESULTS_DATA = {
           "AB",
           60,
           "AB",
+          50,
+          66,
           "N/A",
           "N/A",
-          "N/A",
-          "N/A",
-          "N/A"
+          50
         ],
         "final": "N/A",
-        "average": 63,
+        "average": 60.13,
         "attendance": 0
       },
       {
