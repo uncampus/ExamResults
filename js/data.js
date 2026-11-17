@@ -6285,7 +6285,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           100,
-          "N/A",
+          96,
           "N/A",
           "N/A",
           "N/A",
@@ -6308,7 +6308,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           88,
-          "N/A",
+          86,
           "N/A",
           "N/A",
           "N/A",
@@ -6331,7 +6331,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           70,
-          "N/A",
+          64,
           "N/A",
           "N/A",
           "N/A",
@@ -6354,7 +6354,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           60,
-          "N/A",
+          28,
           "N/A",
           "N/A",
           "N/A",
@@ -6377,7 +6377,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           71,
-          "N/A",
+          82,
           "N/A",
           "N/A",
           "N/A",
@@ -6400,7 +6400,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           94,
-          "N/A",
+          88,
           "N/A",
           "N/A",
           "N/A",
@@ -6423,7 +6423,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           91,
-          "N/A",
+          92,
           "N/A",
           "N/A",
           "N/A",
@@ -6446,7 +6446,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           34,
-          "N/A",
+          "AB",
           "N/A",
           "N/A",
           "N/A",
@@ -6469,7 +6469,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           71,
-          "N/A",
+          68,
           "N/A",
           "N/A",
           "N/A",
@@ -6492,7 +6492,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           60,
-          "N/A",
+          40,
           "N/A",
           "N/A",
           "N/A",
@@ -6515,7 +6515,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           87,
-          "N/A",
+          82,
           "N/A",
           "N/A",
           "N/A",
@@ -6538,7 +6538,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           71,
-          "N/A",
+          68,
           "N/A",
           "N/A",
           "N/A",
@@ -6561,7 +6561,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           58,
-          "N/A",
+          62,
           "N/A",
           "N/A",
           "N/A",
@@ -6584,7 +6584,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           65,
-          "N/A",
+          48,
           "N/A",
           "N/A",
           "N/A",
@@ -6607,7 +6607,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           43,
-          "N/A",
+          52,
           "N/A",
           "N/A",
           "N/A",
@@ -6630,7 +6630,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           78,
-          "N/A",
+          88,
           "N/A",
           "N/A",
           "N/A",
@@ -6653,7 +6653,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           96,
-          "N/A",
+          90,
           "N/A",
           "N/A",
           "N/A",
@@ -6676,7 +6676,7 @@ window.RESULTS_DATA = {
         "registrationNumber": "N/A",
         "marks": [
           81,
-          "N/A",
+          80,
           "N/A",
           "N/A",
           "N/A",
