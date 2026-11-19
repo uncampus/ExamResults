@@ -8428,9 +8428,7 @@ window.RESULTS_DATA = {
           "AB",
           50,
           "AB",
-          80/*,
-          "N/A",
-          "N/A"*/
+          80
         ],
         "average": 20.44,
         "attendance": "N/A"
@@ -8449,9 +8447,7 @@ window.RESULTS_DATA = {
           "AB",
           86,
           94,
-          "AB",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "average": 56.22,
         "attendance": "N/A"
@@ -8470,9 +8466,7 @@ window.RESULTS_DATA = {
           72,
           96,
           65,
-          90,
-          "N/A",
-          "N/A"
+          90
         ],
         "average": 81.89,
         "attendance": "N/A"
@@ -8491,9 +8485,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           "AB",
-          "AB",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "average": 30.78,
         "attendance": "N/A"
@@ -8512,9 +8504,7 @@ window.RESULTS_DATA = {
           58,
           68,
           72,
-          78,
-          "N/A",
-          "N/A"
+          78
         ],
         "average": 63.33,
         "attendance": "N/A"
@@ -8533,9 +8523,7 @@ window.RESULTS_DATA = {
           84,
           94,
           "AB",
-          90,
-          "N/A",
-          "N/A"
+          90
         ],
         "average": 69.89,
         "attendance": "N/A"
@@ -8554,9 +8542,7 @@ window.RESULTS_DATA = {
           "AB",
           "AB",
           93,
-          95,
-          "N/A",
-          "N/A"
+          95
         ],
         "average": 56.11,
         "attendance": "N/A"
@@ -8575,9 +8561,7 @@ window.RESULTS_DATA = {
           62,
           82,
           50,
-          98,
-          "N/A",
-          "N/A"
+          98
         ],
         "average": 73.89,
         "attendance": "N/A"
@@ -8596,9 +8580,7 @@ window.RESULTS_DATA = {
           "AB",
           60,
           94,
-          85,
-          "N/A",
-          "N/A"
+          85
         ],
         "average": 63.67,
         "attendance": "N/A"
@@ -8617,9 +8599,7 @@ window.RESULTS_DATA = {
           42,
           60,
           42,
-          60,
-          "N/A",
-          "N/A"
+          60
         ],
         "average": 54.22,
         "attendance": "N/A"
@@ -8638,9 +8618,7 @@ window.RESULTS_DATA = {
           80,
           66,
           12,
-          60,
-          "N/A",
-          "N/A"
+          60
         ],
         "average": 49.44,
         "attendance": "N/A"
@@ -8659,9 +8637,7 @@ window.RESULTS_DATA = {
           34,
           64,
           51,
-          "AB",
-          "N/A",
-          "N/A"
+          "AB"
         ],
         "average": 54.33,
         "attendance": "N/A"
@@ -8680,9 +8656,7 @@ window.RESULTS_DATA = {
           86,
           90,
           94,
-          85,
-          "N/A",
-          "N/A"
+          85
         ],
         "average": 75.78,
         "attendance": "N/A"
@@ -8701,9 +8675,7 @@ window.RESULTS_DATA = {
           52,
           68,
           74,
-          65,
-          "N/A",
-          "N/A"
+          65
         ],
         "average": 58.33,
         "attendance": "N/A"
