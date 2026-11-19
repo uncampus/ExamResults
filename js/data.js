@@ -8359,5 +8359,355 @@ window.RESULTS_DATA = {
         "attendance": "N/A"
       }
     ]
+  },
+
+  //DIE B11
+  "DIE-B11": {
+    "course": "Diploma in English",
+    "batch": "DIE - B11",
+    "resultDate": "2026",
+    "hasFinalExam": false,
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Parts of Speech"
+      },
+      {
+        "code": "M02",
+        "name": "Tenses"
+      },
+      {
+        "code": "M03",
+        "name": "Classified Vocabulary"
+      },
+      {
+        "code": "M04",
+        "name": "Practical Classroom Spoken English Activities"
+      },
+      {
+        "code": "M05",
+        "name": "Presentation Skills"
+      },
+      {
+        "code": "M06",
+        "name": "Active and Passive Voices"
+      },
+      {
+        "code": "M07",
+        "name": "Modal Verbs"
+      },
+      {
+        "code": "M08",
+        "name": "Telephone Conversation"
+      },
+      {
+        "code": "M09",
+        "name": "Reading and Comprehension"
+      }/*,
+      {
+        "code": "M10",
+        "name": "Listening Activities"
+      },
+      {
+        "code": "M11",
+        "name": "Writing"
+      }*/
+    ],
+    "students": [
+      {
+        "name": "Pathurshan",
+        "fullName": "Mokanaraj Pathurshan",
+        "nic": "200635102392",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/91",
+        "marks": [
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          54,
+          "AB",
+          50,
+          "AB",
+          80/*,
+          "N/A",
+          "N/A"*/
+        ],
+        "average": 20.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Thujinthan",
+        "fullName": "Suganthan Thujinthan",
+        "nic": "200613400462",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/86",
+        "marks": [
+          "AB",
+          82,
+          80,
+          90,
+          74,
+          "AB",
+          86,
+          94,
+          "AB",
+          "N/A",
+          "N/A"
+        ],
+        "average": 56.22,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Keshana",
+        "fullName": "Mohanasooriyan Keshana",
+        "nic": "200971900114",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P//84",
+        "marks": [
+          83,
+          90,
+          85,
+          80,
+          76,
+          72,
+          96,
+          65,
+          90,
+          "N/A",
+          "N/A"
+        ],
+        "average": 81.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Nilatharan",
+        "fullName": "Nimalakasan Nilatharan",
+        "nic": "200618900454",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/92",
+        "marks": [
+          "AB",
+          95,
+          85,
+          97,
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "AB",
+          "N/A",
+          "N/A"
+        ],
+        "average": 30.78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Vithushaa",
+        "fullName": "Yohakumar Vithusha",
+        "nic": "200375711553",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/90",
+        "marks": [
+          11,
+          70,
+          80,
+          85,
+          48,
+          58,
+          68,
+          72,
+          78,
+          "N/A",
+          "N/A"
+        ],
+        "average": 63.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Stephan Raj",
+        "fullName": "Mr Selva Stepanraj",
+        "nic": "200323113327",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/89",
+        "marks": [
+          87,
+          95,
+          "AB",
+          95,
+          84,
+          84,
+          94,
+          "AB",
+          90,
+          "N/A",
+          "N/A"
+        ],
+        "average": 69.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Venuga",
+        "fullName": "Jeyachandran Venuga",
+        "nic": "200758203438",
+        "registrationNumber": "TRI01/DIP/EN/2026/P/103",
+        "marks": [
+          72,
+          75,
+          85,
+          85,
+          "AB",
+          "AB",
+          "AB",
+          93,
+          95,
+          "N/A",
+          "N/A"
+        ],
+        "average": 56.11,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Gayathri",
+        "fullName": "Pathmanathan Gayathiri Jothi",
+        "nic": "200181000369",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/95",
+        "marks": [
+          50,
+          75,
+          85,
+          85,
+          78,
+          62,
+          82,
+          50,
+          98,
+          "N/A",
+          "N/A"
+        ],
+        "average": 73.89,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Sathusan",
+        "fullName": "Vjavamohan Sathusan",
+        "nic": "200705100389",
+        "registrationNumber": "TRI02/DIP/EN/2026/P/94",
+        "marks": [
+          24,
+          80,
+          85,
+          80,
+          65,
+          "AB",
+          60,
+          94,
+          85,
+          "N/A",
+          "N/A"
+        ],
+        "average": 63.67,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Haneef",
+        "fullName": "Kasi Mohamed Haneef ",
+        "nic": "200604400013",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/101",
+        "marks": [
+          46,
+          "AB",
+          85,
+          88,
+          65,
+          42,
+          60,
+          42,
+          60,
+          "N/A",
+          "N/A"
+        ],
+        "average": 54.22,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Sivashakthi",
+        "fullName": "Raveendran Sivashakthi",
+        "nic": "200678100592",
+        "registrationNumber": "TRI/02/DIP/EN/2026/P/96",
+        "marks": [
+          62,
+          "AB",
+          85,
+          80,
+          "AB",
+          80,
+          66,
+          12,
+          60,
+          "N/A",
+          "N/A"
+        ],
+        "average": 49.44,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Kavinshan",
+        "fullName": "Jeyapalan Kavinsan",
+        "nic": "200912304489",
+        "registrationNumber": "TRI/02/DIP/EN/2026/P/99",
+        "marks": [
+          40,
+          80,
+          85,
+          85,
+          50,
+          34,
+          64,
+          51,
+          "AB",
+          "N/A",
+          "N/A"
+        ],
+        "average": 54.33,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Delphan",
+        "fullName": "Noel David Eliyas Gaudentus Delphan Eliyas",
+        "nic": "200617200745",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/98",
+        "marks": [
+          66,
+          "AB",
+          83,
+          90,
+          88,
+          86,
+          90,
+          94,
+          85,
+          "N/A",
+          "N/A"
+        ],
+        "average": 75.78,
+        "attendance": "N/A"
+      },
+      {
+        "name": "Haroshan",
+        "fullName": "Satheeawaran Haroshan",
+        "nic": "200927205281",
+        "registrationNumber": "TRI02/DIP/ EN/2026/P/100",
+        "marks": [
+          "AB",
+          85,
+          80,
+          75,
+          26,
+          52,
+          68,
+          74,
+          65,
+          "N/A",
+          "N/A"
+        ],
+        "average": 58.33,
+        "attendance": "N/A"
+      }
+    ]
   }
 };
