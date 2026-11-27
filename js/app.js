@@ -89,9 +89,14 @@
         String(b.course || "").toLowerCase().includes("english")
     );
 
-    const hrmBatches = batches.filter(b =>
-        String(b.course || "").toLowerCase().includes("hrm")
-    );
+    const hrmBatches = batches.filter(b => {
+        const course = String(b.course || "").toLowerCase();
+        const identifier = String(b.id || b.batch || "").toLowerCase();
+
+        return course.includes("hrm") ||
+               course.includes("human resource") ||
+               identifier.includes("hrm");
+    });
 
     function renderBatchCards(batchList, grid) {
         if (!grid) return;
