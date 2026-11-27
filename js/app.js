@@ -65,6 +65,8 @@
   function renderBatches() {
     const itGrid = document.querySelector("#itBatchGrid");
     const englishGrid = document.querySelector("#englishBatchGrid");
+    const hrmGrid = document.querySelector("#hrmBatchGrid");
+    
 
     const batches = allBatches();
 
@@ -74,6 +76,7 @@
 
         if (itGrid) itGrid.innerHTML = emptyMessage;
         if (englishGrid) englishGrid.innerHTML = "";
+        if (hrmGrid) hrmGrid.innerHTML = "";
         return;
     }
 
@@ -86,7 +89,7 @@
         String(b.course || "").toLowerCase().includes("english")
     );
 
-    const HRMBatches = batches.filter(b =>
+    const hrmBatches = batches.filter(b =>
         String(b.course || "").toLowerCase().includes("hrm")
     );
 
@@ -130,6 +133,7 @@
 
     renderBatchCards(itBatches, itGrid);
     renderBatchCards(englishBatches, englishGrid);
+    renderBatchCards(hrmBatches, hrmGrid);
   }
 
 
