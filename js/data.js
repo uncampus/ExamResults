@@ -8971,5 +8971,162 @@ window.RESULTS_DATA = {
         "attendance": "N/A"
       }
     ]
+  },
+  //Diploma in HRM Batches
+  //DIHRM B02
+  "DIHRM-B02": {
+    "course": "Diploma in HRM",
+    "batch": "DIHRM - B02",
+    "resultDate": "2026",
+    "modules": [
+      {
+        "code": "M01",
+        "name": "Introduction to HRM"
+      },
+      {
+        "code": "M02",
+        "name": "Role of communication"
+      },
+      {
+        "code": "M03",
+        "name": "Strategic HR Plan & HRP"
+      },
+      {
+        "code": "M04",
+        "name": "Compensation & Benefits"
+      },
+      {
+        "code": "M05",
+        "name": "Recruitment"
+      },
+      {
+        "code": "M06",
+        "name": "Selection"
+      },
+      {
+        "code": "M07",
+        "name": "Training & Development"
+      },
+      {
+        "code": "M08",
+        "name": "Employee Performance"
+      }
+    ],
+    "students": [
+      {
+        "name": "A.Sutharshana",
+        "fullName": "Arulseelan Sutharshana",
+        "nic": "200573700802",
+        "registrationNumber": "STU20260331",
+        "marks": [
+          79,
+          83,
+          74,
+          75,
+          70,
+          65,
+          68,
+          82
+        ],
+        "final": 84,
+        "average": 75.56,
+        "attendance": 80
+      },
+      {
+        "name": "J.Yuvethika",
+        "fullName": "Jegatheesan Yuvethika",
+        "nic": "200583703163",
+        "registrationNumber": "STU20260332",
+        "marks": [
+          69,
+          74,
+          72,
+          72,
+          50,
+          65,
+          68,
+          72
+        ],
+        "final": 74,
+        "average": 68.44,
+        "attendance": 81
+      },
+      {
+        "name": "F.H.Hanoosi",
+        "fullName": "Fathima Hanith Hanoosi",
+        "nic": "200655502960",
+        "registrationNumber": "STU20261061",
+        "marks": [
+          76,
+          77,
+          70,
+          68,
+          69,
+          66,
+          66,
+          64
+        ],
+        "final": 70,
+        "average": 69.56,
+        "attendance": 82
+      },
+      {
+        "name": "Kais Mohamed",
+        "fullName": "Mohamed Mufthiyas Mohamed Kais",
+        "nic": "200311413487",
+        "registrationNumber": "STU20260637",
+        "marks": [
+          74,
+          74,
+          73,
+          74,
+          64,
+          65,
+          88,
+          80
+        ],
+        "final": 72,
+        "average": 73.78,
+        "attendance": 81
+      },
+      {
+        "name": "T.Yovin",
+        "fullName": "Tharmarajan Yovin",
+        "nic": "N/A",
+        "registrationNumber": "TRI/DIP/HRM/2025/P/12",
+        "marks": [
+          56,
+          60,
+          56,
+          59,
+          42,
+          50,
+          58,
+          57
+        ],
+        "final": 62,
+        "average": 55.56,
+        "attendance": 83
+      },
+      {
+        "name": "M Periyal",
+        "fullName": "Mohamed Sabu Periyal",
+        "nic": "200580603202",
+        "registrationNumber": "STU20260358",
+        "marks": [
+          74,
+          73,
+          72,
+          74,
+          62,
+          55,
+          77,
+          73
+        ],
+        "final": 80,
+        "average": 71.11,
+        "attendance": 80
+      }
+    ]
   }
 };
